@@ -1,0 +1,8 @@
+site_name: CTO framework
+theme:
+  name: material
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-QSBG34WM6H
