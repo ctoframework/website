@@ -1,4 +1,11 @@
-# Welcome to CTO framework
+---
+hide:
+  - navigation
+---
+
+# Intro
+
+## Welcome to CTO framework!
 
 ## Our mission
 
