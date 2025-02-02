@@ -3,6 +3,13 @@ site_url: https://ctoframework.com
 repo_url: https://github.com/ctoframework/static-website
 edit_uri: edit/main/docs/
 
+#nav:
+#  - People:
+#    - people/
+#    - Personal development: personal-development/
+#  - Personal development: personal-development/
+#  - Links: links/
+
 theme:
   name: material
   custom_dir: overrides
@@ -12,7 +19,8 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.path
+    - navigation.indexes
+    - navigation.path # Requires insiders build
     - navigation.footer
     - content.action.edit
     - content.code.copy
@@ -30,12 +38,18 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+extra_css:
+  - styles/extra.css
+
 plugins:
   - meta
   - tags
   - search
   - git-revision-date-localized:
       enable_creation_date: false
+
+markdown_extensions:
+  - attr_list
 
 extra:
   alternate:
@@ -53,6 +67,3 @@ extra:
   analytics:
     provider: google
     property: G-QSBG34WM6H
-
-extra_css:
-  - styles/extra.css
