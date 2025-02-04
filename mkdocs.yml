@@ -49,8 +49,13 @@ plugins:
       enable_creation_date: false
 
 markdown_extensions:
+  - def_list
   - attr_list
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist
 
 extra:
   alternate:
