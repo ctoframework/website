@@ -50,6 +50,7 @@ plugins:
 
 markdown_extensions:
   - attr_list
+  - footnotes
 
 extra:
   alternate:

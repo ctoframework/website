@@ -17,3 +17,11 @@
 ## Performance
 
 > Everybody wants a gold medal, but few people want to train like an Olympian.<br/>[_James Clear_](https://en.wikipedia.org/wiki/James_Clear){target=\_blank}
+
+## Resiliance
+
+> A smooth sea never made a skilled sailor.<br/>[_Franklin D. Roosevelt_](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt){target=\_blank}
+
+Challenging experiences are the most educational and thus, ultimately, the most beneficial. [^1]
+
+[^1]: [Wiktionary](https://en.wiktionary.org/wiki/a_smooth_sea_never_made_a_skilled_sailor)
