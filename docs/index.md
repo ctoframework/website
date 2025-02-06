@@ -1,11 +1,10 @@
 ---
+title: Home
 hide:
   - navigation
 ---
 
-# Intro
-
-## Welcome to CTO framework!
+# Welcome to CTO framework!
 
 ## Our mission
 
