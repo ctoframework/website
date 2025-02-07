@@ -41,6 +41,10 @@ theme:
 extra_css:
   - styles/extra.css
 
+extra_javascript:
+  - scripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
 plugins:
   - meta
   - tags
@@ -55,6 +59,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.tasklist
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -76,4 +82,4 @@ extra:
       link: https://github.com/ctoframework
   analytics:
     provider: google
-    property: G-QSBG34WM6H
+    property: !ENV GOOGLE_ANALYTICS_KEY

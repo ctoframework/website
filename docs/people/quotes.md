@@ -6,6 +6,10 @@
 
 > Be kind, for everyone you meet is fighting a hard battle.<br/>[_Ian MacLaren_](https://en.wikipedia.org/wiki/Ian_Maclaren){target=\_blank}
 
+## Authenticity
+
+> Be yourself; everyone else is already taken.<br/>[_Oscar Wilde_](https://en.wikipedia.org/wiki/Oscar_Wilde){target=\_blank}
+
 ## Hiring
 
 > A players hire A players. But B players hire C players, and C players hire D players. It doesn't take long to get to F players. This trickle-down effect causes bozo explosions in companies.<br/>[_Steve Jobs_](https://en.wikipedia.org/wiki/Steve_Jobs){target=\_blank}
