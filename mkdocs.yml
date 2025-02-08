@@ -80,6 +80,8 @@ extra:
       link: https://www.linkedin.com/company/ctoframework/
     - icon: fontawesome/brands/github
       link: https://github.com/ctoframework
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@ctoframework
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
