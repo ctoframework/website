@@ -4,6 +4,8 @@ The **Eisenhower Matrix**, also known as the **Urgent-Important Matrix**, is a t
 
 > _"What is important is seldom urgent, and what is urgent is seldom important."_
 
+![Eisenhower matrix diagram](/images/diagrams/eisenhower-matrix.png)
+
 ## How It Works
 
 The matrix divides tasks into four quadrants:
