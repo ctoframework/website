@@ -13,3 +13,9 @@ A Chief Technology Officer (CTO) needs strong knowledge of delivery to ensure te
 - Metrics & Continuous Improvement
 
 A great CTO ensures technology teams deliver high-quality, scalable, and secure software efficiently while aligning with business objectives.
+
+## Delivery Books fot CTOs
+
+| Title                                           | Summary                                                                                                                                                                                                                                                                                                                                  | Link                                                                                                        |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Software Estimation: Demystifying the Black Art | This book provides practical techniques to improve software estimation accuracy. It emphasizes structured approaches, historical data, and iterative refinement to manage uncertainty and set realistic expectations. The book helps leaders make informed decisions, align stakeholders, and balance cost, time, and scope effectively. | [Amazon](https://www.amazon.co.uk/Software-Estimation-Demystifying-Black-Art/dp/0735605351){target=\_blank} |
