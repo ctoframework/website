@@ -17,3 +17,5 @@ title: Quotes
 ## Agility
 
 > Perfect is the enemy of good.<br>[_Voltaire_](https://en.wikipedia.org/wiki/Voltaire){target=\_blanks}
+
+> Better a diamond with a flaw than a pebble without.<br>[_Confucius_](https://en.wikipedia.org/wiki/Confucius){target=\_blank}
