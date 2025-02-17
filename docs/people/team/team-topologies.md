@@ -38,3 +38,7 @@ How teams interact is crucial to minimizing friction and maximizing efficiency:
 - Improved developer experience and autonomy.
 - Better knowledge-sharing and upskilling through enabling teams.
 - Scalable team structures that evolve with business needs.
+
+## See also
+
+- The "Two-Pizza Rule" (Amazon)

@@ -6,9 +6,9 @@ hide:
 
 # Your Ultimate Resource for Tech Leadership
 
-Leading a software engineering team is tough. **We make it easier**.
-
 CTO framework is your go-to hub for the best practices, insights, and tools to help you excel as a CTO, VP of Engineering, or Engineering Director—whether you're leading today or preparing for tomorrow.
+
+Leading a software engineering team is tough. **We make it easier**.
 
 **Level up your leadership. Build better teams. Drive impact.**
 

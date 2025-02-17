@@ -20,5 +20,4 @@ graph TD;
     C -->|Challenges & blockers| C1[Potential risks and mitigations]
     D -->|Immediate priorities| D1[Upcoming tasks & decisions]
     E -->|Resource requirements| E1[Budget, support, alignment]
-
 ```

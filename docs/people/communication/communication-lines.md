@@ -61,3 +61,7 @@ Failure to manage these channels effectively leads to inefficiencies, duplicated
 - **Exponential Growth**: Communication complexity doesn’t scale linearly—it explodes as the team grows.
 - **Risk of Inefficiency**: Without structure, misalignment and delays become inevitable.
 - **Scaling Strategies**: Tools (docs, async updates), defined roles, and structured processes become essential beyond a certain team size.
+
+## See also
+
+- Dunbar's number
