@@ -3,12 +3,7 @@ site_url: https://ctoframework.com
 repo_url: https://github.com/ctoframework/static-website
 edit_uri: edit/main/docs/
 
-#nav:
-#  - People:
-#    - people/
-#    - Personal development: personal-development/
-#  - Personal development: personal-development/
-#  - Links: links/
+copyright: Copyright © 2025
 
 theme:
   name: material
@@ -19,6 +14,7 @@ theme:
 
   features:
     - navigation.tabs
+#    - navigation.expand
     - navigation.indexes
     - navigation.path # Requires insiders build
     - navigation.footer
@@ -49,6 +45,30 @@ plugins:
   - meta
   - tags
   - search
+  - awesome-nav
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: es
+          name: Español
+          build: true
+          site_name: "Documentation du plugin MkDocs static i18n (fr)"
+          site_description: "Description Française"
+          nav_translations:
+            Home: Inicio 
+            People: Personas 
+            Delivery: Procesos
+            Product: Producto
+            Technology: Tecnología
+            Finance: Finanzas
+            Resources: Recursos
   - git-revision-date-localized:
       enable_creation_date: false
 
@@ -72,6 +92,9 @@ extra:
     - name: English
       link: /
       lang: en
+    - name: Español
+      link: /es/
+      lang: es
   generator: false
   social:
     - icon: fontawesome/brands/x-twitter

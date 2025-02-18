@@ -1,0 +1,23 @@
+nav:
+  - Home: index.md
+  - People:
+    - people/index.md
+    - "people/*" 
+  - Delivery:
+    - delivery/index.md
+    - "delivery/*"
+  - Product:
+    - product/index.md
+    - "product/*"
+  - Technology:
+    - tech/index.md
+    - "tech/*"
+  - Finance:
+    - finance/index.md
+    - "finance/*"
+  - Resources:
+    - resources/index.md
+    - "resources/*"
+
+
+
