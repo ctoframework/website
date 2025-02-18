@@ -12,4 +12,6 @@ A team charter is a document that outlines a team's purpose, goals, and how they
 - Improves communication among team members
 - Ensures everyone understands the team's ideals
 
-[Download Team Charters slidedeck](/downloads/slidedecks/team-charters.pdf){target=_blank}
+!!! abstract "Files"
+
+    Download the [Team Charters presentation](/downloads/slidedecks/team-charters.pdf){target=_blank}.

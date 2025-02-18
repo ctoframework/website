@@ -61,3 +61,7 @@ The Boy Scout Rule is a simple yet powerful guideline for maintaining a high-qua
 So the next time you work on a piece of code, ask yourself:
 
 **How can I leave this a little better than I found it?**
+
+!!! abstract "Files"
+
+    Download the [Boy Scout rule presentation](/downloads/slidedecks/boy-scout-rule.pdf){target=_blank}.
