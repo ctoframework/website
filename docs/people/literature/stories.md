@@ -1,3 +1,7 @@
+---
+title: Stories
+---
+
 # People stories in leadership
 
 ## Janitor putting a man on the moon

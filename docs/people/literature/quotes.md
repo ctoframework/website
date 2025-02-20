@@ -20,6 +20,8 @@
 
 > The whole is greater than the sum of the parts.<br/>[_Aristotle_](https://en.wikipedia.org/wiki/Aristotle){target=\_blank}
 
+> If you want to go fast, go alone, if you want to go far, go together.<br>_African proverb_.
+
 ## Performance
 
 > Everybody wants a gold medal, but few people want to train like an Olympian.<br/>[_James Clear_](https://en.wikipedia.org/wiki/James_Clear){target=\_blank}
