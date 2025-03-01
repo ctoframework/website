@@ -14,3 +14,7 @@ All the code and content behind https://ctoframework.com. Licensed [CC BY-SA 4.0
 make
 xdg-open http://127.0.0.1:8000/
 ```
+
+## References
+
+- https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
