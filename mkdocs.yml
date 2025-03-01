@@ -1,4 +1,5 @@
-site_name: CTO framework
+site_name: CTO Framework
+site_description: The most comprehensive site for technical leaders looking to expand their knowledge and skills.
 site_url: https://ctoframework.com
 repo_url: https://github.com/ctoframework/static-website
 edit_uri: edit/main/docs/
@@ -45,6 +46,7 @@ plugins:
   - meta
   - tags
   - search
+  - social
   - awesome-nav
   - i18n:
       docs_structure: suffix
@@ -59,8 +61,7 @@ plugins:
         - locale: es
           name: Español
           build: true
-          site_name: "Documentation du plugin MkDocs static i18n (fr)"
-          site_description: "Description Française"
+          site_description: "El sitio más completo para líderes técnicos que buscan expandir sus conocimientos y habilidades."
           nav_translations:
             Home: Inicio 
             People: Personas 
