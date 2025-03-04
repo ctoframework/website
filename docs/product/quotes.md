@@ -14,6 +14,8 @@ title: Quotes
 
 > If I had asked people what they wanted, they would have said faster horses.<br>[Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford){target=\_blank}
 
+> I have not failed, but found 1000 ways to not make a light bulb<br>[Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
+
 ## Agility
 
 > Perfect is the enemy of good.<br>[_Voltaire_](https://en.wikipedia.org/wiki/Voltaire){target=\_blanks}

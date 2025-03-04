@@ -32,4 +32,6 @@
 
 Challenging experiences are the most educational and thus, ultimately, the most beneficial. [^1]
 
+> First they ignore you, then they laugh at you, then they fight you, then you win.<br>[Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
+
 [^1]: [Wiktionary](https://en.wiktionary.org/wiki/a_smooth_sea_never_made_a_skilled_sailor)
