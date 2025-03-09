@@ -1,3 +1,8 @@
+---
+tags:
+  - blogs
+---
+
 # Blogs & Newsletters
 
 - [The Hybrid Hacker](https://hybridhacker.email/)

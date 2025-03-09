@@ -1,3 +1,8 @@
+---
+tags:
+  - podcasts
+---
+
 # Podcasts
 
 | Name                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                | Link                                                                                |
