@@ -32,3 +32,8 @@ The **Blob Tree** is a visual tool often used to assess emotions, team dynamics,
 - Facilitates conversations around career progression and professional development.
 
 By using the Blob Tree in strategic discussions, leaders can gain a deeper, more nuanced understanding of their teams beyond traditional surveys or feedback forms.
+
+## References
+
+- [Blob tree](https://en.wikipedia.org/wiki/Blob_Tree) article on the Wikipedia.
+
