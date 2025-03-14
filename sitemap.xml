@@ -589,6 +589,13 @@
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/quotes/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/</loc>
+        <lastmod>2025-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/descriptive-predictive-prescriptive/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/product/analytics/empirical-vs-anecdotal/</loc>
         <lastmod>2025-03-14</lastmod>
         <changefreq>daily</changefreq>
@@ -664,6 +671,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/ui-ux/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/ui-ux/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/product/strategy/business-models/</loc>
+        <lastmod>2025-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/business-models/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/business-models/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/product/strategy/pestle-analysis/</loc>
@@ -1450,6 +1464,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/quotes/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/es/product/analytics/descriptive-predictive-prescriptive/</loc>
+        <lastmod>2025-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/descriptive-predictive-prescriptive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/es/product/analytics/empirical-vs-anecdotal/</loc>
         <lastmod>2025-03-14</lastmod>
         <changefreq>daily</changefreq>
@@ -1525,6 +1546,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/ui-ux/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/ui-ux/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/es/product/strategy/business-models/</loc>
+        <lastmod>2025-03-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/business-models/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/business-models/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/es/product/strategy/pestle-analysis/</loc>
