@@ -50,6 +50,12 @@ plugins:
   - search
   - social
   - awesome-nav
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true      
   - privacy
   - i18n:
       docs_structure: suffix
@@ -125,4 +131,10 @@ extra:
 
 hooks:
   - hooks/socialmedia.py
+  - hooks/extlinks.py
 
+validation:
+  links:
+    absolute_links: relative_to_docs
+    anchors: warn
+    unrecognized_links: warn
