@@ -13,3 +13,7 @@
 
 - [Well architected](https://aws.amazon.com/architecture/well-architected/)
 - [AWS in plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+
+### Google Cloud Platform
+
+- [AWS & GCP explained in simple English](https://gist.github.com/miglen/f6eef81803a43dad434d)

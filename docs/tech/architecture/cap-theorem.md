@@ -7,7 +7,7 @@ tags:
 
 # CAP Theorem
 
-As a CTO, you need to balance trade-offs between **Consistency, Availability, and Partition Tolerance** when designing distributed systems. The **CAP theorem** formulated by computer scientist [Eric Brewer](<https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)>){target=\_blank} states that in any distributed system, you can only guarantee **two out of three** properties at any given time.
+As a CTO, you need to balance trade-offs between **Consistency, Availability, and Partition Tolerance** when designing distributed systems. The **CAP theorem** formulated by computer scientist [Eric Brewer](<https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)>) states that in any distributed system, you can only guarantee **two out of three** properties at any given time.
 
 ## Breaking Down CAP
 

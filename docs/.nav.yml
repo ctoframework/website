@@ -16,8 +16,6 @@ nav:
     - finance/index.md
     - "finance/*"
   - Resources:
-    - resources/index.md
+    - resources/blogs.md
     - "resources/*"
-
-
 

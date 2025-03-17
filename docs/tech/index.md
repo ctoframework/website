@@ -17,4 +17,4 @@ A great CTO balances deep technical expertise with strategic vision, ensuring th
 
 ### Methodologies
 
-- [The Twelve-Factor App](https://12factor.net/){target=\_blank}
+- [The Twelve-Factor App](https://12factor.net/)
