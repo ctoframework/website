@@ -45,3 +45,7 @@ Overcoming imposter syndrome requires intentional effort and mindset shifts. Som
 ## Final Thoughts
 
 Imposter syndrome is not a reflection of actual ability but rather a misalignment between personal perception and reality. Those who experience it are often highly capable professionals pushing themselves to excel. The key is to recognize these feelings, challenge the negative thought patterns, and develop strategies to move forward with confidence. The goal isn’t to eliminate doubt entirely but to prevent it from holding you back.
+
+## References
+
+- [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) on the Wikipedia.
