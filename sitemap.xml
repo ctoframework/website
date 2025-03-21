@@ -253,6 +253,13 @@
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/investment/shares-stock/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/finance/salaries/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/salaries/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/salaries/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/people/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -265,6 +272,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/most-influential-ctos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/most-influential-ctos/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/people/career-development/career-ladders/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/career-ladders/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/career-ladders/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/people/career-development/career-plans/</loc>
@@ -638,6 +652,13 @@
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/nps/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/product/experimentation/abn-testing/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/abn-testing/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/abn-testing/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/product/experimentation/minimum-viable-product/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -771,6 +792,20 @@
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/cap-theorem/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/tech/architecture/cqrs/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/cqrs/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/cqrs/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/horizontal-vertical-scaling/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/tech/architecture/infrastructure-models/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -806,11 +841,25 @@
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/restful-apis/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/tech/architecture/sql-vs-nosql/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/sql-vs-nosql/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/sql-vs-nosql/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/tech/architecture/tools/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/tools/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/tools/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/tech/architecture/data/medallion-architecture/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/data/medallion-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/data/medallion-architecture/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/tech/development/boy-scout-rule/</loc>
@@ -832,6 +881,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/engineer-must-know/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/engineer-must-know/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/tech/development/katas/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/katas/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/katas/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/tech/development/key-development-principles/</loc>
@@ -860,6 +916,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/devops-culture/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/devops-culture/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/tech/devops/dkmi/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/dkmi/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/dkmi/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/tech/quality/metrics/</loc>
@@ -1156,6 +1219,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/investment/shares-stock/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/es/finance/salaries/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/salaries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/salaries/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/es/people/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -1168,6 +1238,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/most-influential-ctos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/most-influential-ctos/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/es/people/career-development/career-ladders/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/career-ladders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/career-ladders/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/es/people/career-development/career-plans/</loc>
@@ -1541,6 +1618,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/nps/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/es/product/experimentation/abn-testing/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/abn-testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/abn-testing/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/es/product/experimentation/minimum-viable-product/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -1674,6 +1758,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/cap-theorem/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/es/tech/architecture/cqrs/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/cqrs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/cqrs/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/es/tech/architecture/horizontal-vertical-scaling/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/horizontal-vertical-scaling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/es/tech/architecture/infrastructure-models/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -1709,11 +1807,25 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/restful-apis/"/>
     </url>
     <url>
+        <loc>https://ctoframework.com/es/tech/architecture/sql-vs-nosql/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/sql-vs-nosql/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/sql-vs-nosql/"/>
+    </url>
+    <url>
         <loc>https://ctoframework.com/es/tech/architecture/tools/</loc>
         <lastmod>2025-03-21</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/tools/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/tools/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/es/tech/architecture/data/medallion-architecture/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/data/medallion-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/data/medallion-architecture/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/es/tech/development/boy-scout-rule/</loc>
@@ -1735,6 +1847,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/engineer-must-know/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/engineer-must-know/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/es/tech/development/katas/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/katas/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/katas/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/es/tech/development/key-development-principles/</loc>
@@ -1763,6 +1882,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/devops-culture/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/devops-culture/"/>
+    </url>
+    <url>
+        <loc>https://ctoframework.com/es/tech/devops/dkmi/</loc>
+        <lastmod>2025-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/dkmi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/dkmi/"/>
     </url>
     <url>
         <loc>https://ctoframework.com/es/tech/quality/metrics/</loc>
