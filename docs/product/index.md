@@ -11,7 +11,3 @@ A Chief Technology Officer (CTO) needs a deep and broad understanding of a compa
 - Collaboration & Leadership
 
 A great CTO doesn't just know the technology, they understand how the product solves problems, fits into the market, and supports the company's vision.
-
-### UI/UX
-
-- [GOV.UK design system](https://design-system.service.gov.uk/)

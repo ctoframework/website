@@ -1,3 +1,7 @@
+---
+title: UI/UX
+---
+
 # User Interface (UI) and User Experience (UX)
 
 In modern digital product development, **User Interface (UI)** and **User Experience (UX)** are critical components that shape how users interact with technology. While these terms are often used interchangeably, they serve distinct yet complementary roles. To build successful products that drive engagement, usability, and satisfaction, it is essential to understand the interplay between these two disciplines.
