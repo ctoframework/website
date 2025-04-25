@@ -8,3 +8,4 @@
 - [Google SRE book](https://sre.google/sre-book/table-of-contents/)
 - [Automattic employee handbook](https://automattic.com/fieldguide/)
 - [Google rework](https://rework.withgoogle.com/en/guides)
+- [Microsoft ISE Engineering Fundamentals Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
