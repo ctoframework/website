@@ -57,28 +57,6 @@ plugins:
       htmlmin_opts:
           remove_comments: true      
   - privacy
-  - i18n:
-      docs_structure: suffix
-      fallback_to_default: true
-      reconfigure_material: true
-      reconfigure_search: true
-      languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
-        - locale: es
-          name: Español
-          build: true
-          site_description: "El sitio más completo para líderes técnicos que buscan expandir sus conocimientos y habilidades."
-          nav_translations:
-            Home: Inicio 
-            People: Personas 
-            Delivery: Procesos
-            Product: Producto
-            Technology: Tecnología
-            Finance: Finanzas
-            Resources: Recursos
   - git-revision-date-localized:
       enable_creation_date: false
 
@@ -101,13 +79,6 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Español
-      link: /es/
-      lang: es
   generator: false
   social:
     - icon: fontawesome/brands/x-twitter
