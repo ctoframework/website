@@ -7,3 +7,4 @@
 - [How Hashicorp Works](https://www.hashicorp.com/en/how-hashicorp-works)
 - [Google SRE book](https://sre.google/sre-book/table-of-contents/)
 - [Automattic employee handbook](https://automattic.com/fieldguide/)
+- [Google rework](https://rework.withgoogle.com/en/guides)
