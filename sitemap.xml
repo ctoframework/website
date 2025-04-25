@@ -1,2089 +1,599 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://ctoframework.com/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/"/>
+         <loc>https://ctoframework.com/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/"/>
+         <loc>https://ctoframework.com/delivery/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/humour/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/humour/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/humour/"/>
+         <loc>https://ctoframework.com/delivery/humour/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/agile-methodologies/dor-dod/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/dor-dod/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/dor-dod/"/>
+         <loc>https://ctoframework.com/delivery/agile-methodologies/dor-dod/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/agile-methodologies/extreme-programming/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/extreme-programming/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/extreme-programming/"/>
+         <loc>https://ctoframework.com/delivery/agile-methodologies/extreme-programming/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/agile-methodologies/safe/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/safe/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/safe/"/>
+         <loc>https://ctoframework.com/delivery/agile-methodologies/safe/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/agile-methodologies/scrum/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/scrum/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/scrum/"/>
+         <loc>https://ctoframework.com/delivery/agile-methodologies/scrum/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/estimations/estimation-methods/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/estimations/estimation-methods/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/estimations/estimation-methods/"/>
+         <loc>https://ctoframework.com/delivery/estimations/estimation-methods/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/estimations/montecarlo-simulations/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/estimations/montecarlo-simulations/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/estimations/montecarlo-simulations/"/>
+         <loc>https://ctoframework.com/delivery/estimations/montecarlo-simulations/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/estimations/single-point-estimates/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/estimations/single-point-estimates/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/estimations/single-point-estimates/"/>
+         <loc>https://ctoframework.com/delivery/estimations/single-point-estimates/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/incident-management/occams-razor/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/incident-management/occams-razor/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/incident-management/occams-razor/"/>
+         <loc>https://ctoframework.com/delivery/incident-management/occams-razor/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/incident-management/root-cause-analysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/incident-management/root-cause-analysis/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/incident-management/root-cause-analysis/"/>
+         <loc>https://ctoframework.com/delivery/incident-management/root-cause-analysis/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/incident-management/technical-post-mortems/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/incident-management/technical-post-mortems/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/incident-management/technical-post-mortems/"/>
+         <loc>https://ctoframework.com/delivery/incident-management/technical-post-mortems/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/literature/books/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/literature/books/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/literature/books/"/>
+         <loc>https://ctoframework.com/delivery/literature/books/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/literature/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/literature/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/literature/quotes/"/>
+         <loc>https://ctoframework.com/delivery/literature/quotes/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/metrics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/"/>
+         <loc>https://ctoframework.com/delivery/metrics/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/metrics/north-star-metric/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/north-star-metric/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/north-star-metric/"/>
+         <loc>https://ctoframework.com/delivery/metrics/north-star-metric/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/metrics/rto-rpo/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/rto-rpo/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/rto-rpo/"/>
+         <loc>https://ctoframework.com/delivery/metrics/rto-rpo/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/metrics/say-do-ratio/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/say-do-ratio/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/say-do-ratio/"/>
+         <loc>https://ctoframework.com/delivery/metrics/say-do-ratio/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/metrics/sla-slo-sli/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/sla-slo-sli/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/sla-slo-sli/"/>
+         <loc>https://ctoframework.com/delivery/metrics/sla-slo-sli/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/project-management/analysis-paralysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/analysis-paralysis/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/analysis-paralysis/"/>
+         <loc>https://ctoframework.com/delivery/project-management/analysis-paralysis/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/project-management/prioritisation/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/prioritisation/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/prioritisation/"/>
+         <loc>https://ctoframework.com/delivery/project-management/prioritisation/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/project-management/project-triangle/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/project-triangle/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/project-triangle/"/>
+         <loc>https://ctoframework.com/delivery/project-management/project-triangle/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/project-management/raci-matrix/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/raci-matrix/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/raci-matrix/"/>
+         <loc>https://ctoframework.com/delivery/project-management/raci-matrix/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/project-management/risks/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/risks/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/risks/"/>
+         <loc>https://ctoframework.com/delivery/project-management/risks/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/reporting/four-square-reports/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/reporting/four-square-reports/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/reporting/four-square-reports/"/>
+         <loc>https://ctoframework.com/delivery/reporting/four-square-reports/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/reporting/rag-reports/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/reporting/rag-reports/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/reporting/rag-reports/"/>
+         <loc>https://ctoframework.com/delivery/reporting/rag-reports/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/delivery/systems-thinking/iceberg-model/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/systems-thinking/iceberg-model/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/systems-thinking/iceberg-model/"/>
+         <loc>https://ctoframework.com/delivery/systems-thinking/iceberg-model/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/"/>
+         <loc>https://ctoframework.com/finance/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/budget-breakdown/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/budget-breakdown/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/budget-breakdown/"/>
+         <loc>https://ctoframework.com/finance/budget-breakdown/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/terms/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/terms/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/terms/"/>
+         <loc>https://ctoframework.com/finance/terms/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/top-down-vs-bottom-up-budgeting/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/top-down-vs-bottom-up-budgeting/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/top-down-vs-bottom-up-budgeting/"/>
+         <loc>https://ctoframework.com/finance/top-down-vs-bottom-up-budgeting/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/costs/cloud-costs/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/costs/cloud-costs/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/costs/cloud-costs/"/>
+         <loc>https://ctoframework.com/finance/costs/cloud-costs/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/costs/total-cost-ownership/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/costs/total-cost-ownership/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/costs/total-cost-ownership/"/>
+         <loc>https://ctoframework.com/finance/costs/total-cost-ownership/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/investment/investment-rounds/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/investment/investment-rounds/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/investment/investment-rounds/"/>
+         <loc>https://ctoframework.com/finance/investment/investment-rounds/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/investment/return-of-investment/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/investment/return-of-investment/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/investment/return-of-investment/"/>
+         <loc>https://ctoframework.com/finance/investment/return-of-investment/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/investment/shares-stock/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/investment/shares-stock/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/investment/shares-stock/"/>
+         <loc>https://ctoframework.com/finance/investment/shares-stock/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/literature/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/literature/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/literature/quotes/"/>
+         <loc>https://ctoframework.com/finance/literature/quotes/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/literature/stories/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/literature/stories/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/literature/stories/"/>
+         <loc>https://ctoframework.com/finance/literature/stories/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/finance/salaries/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/salaries/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/salaries/"/>
+         <loc>https://ctoframework.com/finance/salaries/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/"/>
+         <loc>https://ctoframework.com/people/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/most-influential-ctos/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/most-influential-ctos/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/most-influential-ctos/"/>
+         <loc>https://ctoframework.com/people/most-influential-ctos/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/career-development/career-ladders/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/career-ladders/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/career-ladders/"/>
+         <loc>https://ctoframework.com/people/career-development/career-ladders/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/career-development/career-plans/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/career-plans/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/career-plans/"/>
+         <loc>https://ctoframework.com/people/career-development/career-plans/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/career-development/first-90-days-cto/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/first-90-days-cto/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/first-90-days-cto/"/>
+         <loc>https://ctoframework.com/people/career-development/first-90-days-cto/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/career-development/peter-principle/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/peter-principle/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/peter-principle/"/>
+         <loc>https://ctoframework.com/people/career-development/peter-principle/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/communication/assertive-communication/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/assertive-communication/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/assertive-communication/"/>
+         <loc>https://ctoframework.com/people/communication/assertive-communication/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/communication/communication-lines/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/communication-lines/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/communication-lines/"/>
+         <loc>https://ctoframework.com/people/communication/communication-lines/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/communication/preattentive-attributes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/preattentive-attributes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/preattentive-attributes/"/>
+         <loc>https://ctoframework.com/people/communication/preattentive-attributes/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/communication/star-method/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/star-method/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/star-method/"/>
+         <loc>https://ctoframework.com/people/communication/star-method/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/communication/story-telling/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/story-telling/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/story-telling/"/>
+         <loc>https://ctoframework.com/people/communication/story-telling/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/communication/verbal-vs-non-verbal/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/verbal-vs-non-verbal/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/verbal-vs-non-verbal/"/>
+         <loc>https://ctoframework.com/people/communication/verbal-vs-non-verbal/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/culture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/culture/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/culture/"/>
+         <loc>https://ctoframework.com/people/culture/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/culture/blameless-culture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/culture/blameless-culture/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/culture/blameless-culture/"/>
+         <loc>https://ctoframework.com/people/culture/blameless-culture/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/delegation/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/delegation/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/delegation/"/>
+         <loc>https://ctoframework.com/people/delegation/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/diversity/theory-multiple-intelligence/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/diversity/theory-multiple-intelligence/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/diversity/theory-multiple-intelligence/"/>
+         <loc>https://ctoframework.com/people/diversity/theory-multiple-intelligence/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/feedback/360-feedback/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/360-feedback/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/360-feedback/"/>
+         <loc>https://ctoframework.com/people/feedback/360-feedback/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/feedback/blob-tree/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/blob-tree/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/blob-tree/"/>
+         <loc>https://ctoframework.com/people/feedback/blob-tree/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/feedback/pulse-surveys/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/pulse-surveys/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/pulse-surveys/"/>
+         <loc>https://ctoframework.com/people/feedback/pulse-surveys/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/feedback/skip-levels/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/skip-levels/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/skip-levels/"/>
+         <loc>https://ctoframework.com/people/feedback/skip-levels/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/goal-setting/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/goal-setting/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/goal-setting/"/>
+         <loc>https://ctoframework.com/people/goal-setting/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/leadership/leadership-styles/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/leadership/leadership-styles/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/leadership/leadership-styles/"/>
+         <loc>https://ctoframework.com/people/leadership/leadership-styles/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/literature/books/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/literature/books/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/literature/books/"/>
+         <loc>https://ctoframework.com/people/literature/books/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/literature/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/literature/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/literature/quotes/"/>
+         <loc>https://ctoframework.com/people/literature/quotes/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/literature/stories/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/literature/stories/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/literature/stories/"/>
+         <loc>https://ctoframework.com/people/literature/stories/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/offboarding/exit-interview/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/offboarding/exit-interview/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/offboarding/exit-interview/"/>
+         <loc>https://ctoframework.com/people/offboarding/exit-interview/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/organisations/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/"/>
+         <loc>https://ctoframework.com/people/organisations/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/organisations/corporate-nicknames-demonyms/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/corporate-nicknames-demonyms/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/corporate-nicknames-demonyms/"/>
+         <loc>https://ctoframework.com/people/organisations/corporate-nicknames-demonyms/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/organisations/dunbars-number/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/dunbars-number/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/dunbars-number/"/>
+         <loc>https://ctoframework.com/people/organisations/dunbars-number/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/organisations/matrix-organisations/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/matrix-organisations/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/matrix-organisations/"/>
+         <loc>https://ctoframework.com/people/organisations/matrix-organisations/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/performance/9-boxes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/performance/9-boxes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/performance/9-boxes/"/>
+         <loc>https://ctoframework.com/people/performance/9-boxes/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/performance/personal-improvement-plan/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/performance/personal-improvement-plan/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/performance/personal-improvement-plan/"/>
+         <loc>https://ctoframework.com/people/performance/personal-improvement-plan/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/performance/prices-law/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/performance/prices-law/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/performance/prices-law/"/>
+         <loc>https://ctoframework.com/people/performance/prices-law/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/"/>
+         <loc>https://ctoframework.com/people/psychology/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/cognitive-bias/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/cognitive-bias/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/cognitive-bias/"/>
+         <loc>https://ctoframework.com/people/psychology/cognitive-bias/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/colour-psychology/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/colour-psychology/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/colour-psychology/"/>
+         <loc>https://ctoframework.com/people/psychology/colour-psychology/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/emotional-intelligence/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/emotional-intelligence/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/emotional-intelligence/"/>
+         <loc>https://ctoframework.com/people/psychology/emotional-intelligence/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/fixed-growth-mindsets/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/fixed-growth-mindsets/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/fixed-growth-mindsets/"/>
+         <loc>https://ctoframework.com/people/psychology/fixed-growth-mindsets/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/imposter-syndrome/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/imposter-syndrome/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/imposter-syndrome/"/>
+         <loc>https://ctoframework.com/people/psychology/imposter-syndrome/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/social-loafing/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/social-loafing/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/social-loafing/"/>
+         <loc>https://ctoframework.com/people/psychology/social-loafing/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/psychology/yerkes-dodson-law/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/yerkes-dodson-law/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/yerkes-dodson-law/"/>
+         <loc>https://ctoframework.com/people/psychology/yerkes-dodson-law/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/skillset/t-shaped-people/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/skillset/t-shaped-people/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/skillset/t-shaped-people/"/>
+         <loc>https://ctoframework.com/people/skillset/t-shaped-people/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/team/high-performing-teams/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/high-performing-teams/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/high-performing-teams/"/>
+         <loc>https://ctoframework.com/people/team/high-performing-teams/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/team/skills-matrix/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/skills-matrix/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/skills-matrix/"/>
+         <loc>https://ctoframework.com/people/team/skills-matrix/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/team/stages-group-development/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/stages-group-development/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/stages-group-development/"/>
+         <loc>https://ctoframework.com/people/team/stages-group-development/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/team/team-charters/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/team-charters/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/team-charters/"/>
+         <loc>https://ctoframework.com/people/team/team-charters/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/team/team-topologies/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/team-topologies/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/team-topologies/"/>
+         <loc>https://ctoframework.com/people/team/team-topologies/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/time-management/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/"/>
+         <loc>https://ctoframework.com/people/time-management/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/time-management/eisenhower-matrix/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/eisenhower-matrix/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/eisenhower-matrix/"/>
+         <loc>https://ctoframework.com/people/time-management/eisenhower-matrix/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/time-management/pomodoro-technique/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/pomodoro-technique/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/pomodoro-technique/"/>
+         <loc>https://ctoframework.com/people/time-management/pomodoro-technique/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/people/time-management/students-syndrome/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/students-syndrome/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/students-syndrome/"/>
+         <loc>https://ctoframework.com/people/time-management/students-syndrome/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/"/>
+         <loc>https://ctoframework.com/product/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/quotes/"/>
+         <loc>https://ctoframework.com/product/quotes/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/descriptive-predictive-prescriptive/"/>
+         <loc>https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/analytics/empirical-vs-anecdotal/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/empirical-vs-anecdotal/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/empirical-vs-anecdotal/"/>
+         <loc>https://ctoframework.com/product/analytics/empirical-vs-anecdotal/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/analytics/heuristics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/heuristics/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/heuristics/"/>
+         <loc>https://ctoframework.com/product/analytics/heuristics/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/analytics/nps/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/nps/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/nps/"/>
+         <loc>https://ctoframework.com/product/analytics/nps/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/analytics/saas-metrics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/saas-metrics/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/saas-metrics/"/>
+         <loc>https://ctoframework.com/product/analytics/saas-metrics/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/experimentation/abn-testing/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/abn-testing/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/abn-testing/"/>
+         <loc>https://ctoframework.com/product/experimentation/abn-testing/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/experimentation/minimum-viable-product/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/minimum-viable-product/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/minimum-viable-product/"/>
+         <loc>https://ctoframework.com/product/experimentation/minimum-viable-product/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/experimentation/product-lifecycle/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/product-lifecycle/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/product-lifecycle/"/>
+         <loc>https://ctoframework.com/product/experimentation/product-lifecycle/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/licensing/open-source-licenses/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/licensing/open-source-licenses/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/licensing/open-source-licenses/"/>
+         <loc>https://ctoframework.com/product/licensing/open-source-licenses/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/requirements/compliance/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/compliance/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/compliance/"/>
+         <loc>https://ctoframework.com/product/requirements/compliance/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/requirements/five-nines/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/five-nines/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/five-nines/"/>
+         <loc>https://ctoframework.com/product/requirements/five-nines/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/requirements/non-functional-requirements/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/non-functional-requirements/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/non-functional-requirements/"/>
+         <loc>https://ctoframework.com/product/requirements/non-functional-requirements/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/requirements/pii/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/pii/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/pii/"/>
+         <loc>https://ctoframework.com/product/requirements/pii/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/requirements/standards/ISO42001/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/standards/ISO42001/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/standards/ISO42001/"/>
+         <loc>https://ctoframework.com/product/requirements/standards/ISO42001/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/strategy/business-models/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/business-models/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/business-models/"/>
+         <loc>https://ctoframework.com/product/strategy/business-models/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/strategy/pestle-analysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/pestle-analysis/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/pestle-analysis/"/>
+         <loc>https://ctoframework.com/product/strategy/pestle-analysis/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/strategy/planning-horizon/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/planning-horizon/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/planning-horizon/"/>
+         <loc>https://ctoframework.com/product/strategy/planning-horizon/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/strategy/swot-analysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/swot-analysis/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/swot-analysis/"/>
+         <loc>https://ctoframework.com/product/strategy/swot-analysis/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/ui-ux/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/ui-ux/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/ui-ux/"/>
+         <loc>https://ctoframework.com/product/ui-ux/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/ui-ux/design-systems/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/ui-ux/design-systems/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/ui-ux/design-systems/"/>
+         <loc>https://ctoframework.com/product/ui-ux/design-systems/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/product/ui-ux/user-personas/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/ui-ux/user-personas/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/ui-ux/user-personas/"/>
+         <loc>https://ctoframework.com/product/ui-ux/user-personas/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/resources/blogs/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/resources/blogs/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/resources/blogs/"/>
+         <loc>https://ctoframework.com/resources/blogs/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/resources/books/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/resources/books/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/resources/books/"/>
+         <loc>https://ctoframework.com/resources/books/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/resources/podcasts/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/resources/podcasts/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/resources/podcasts/"/>
+         <loc>https://ctoframework.com/resources/podcasts/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/"/>
+         <loc>https://ctoframework.com/tech/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/versioning/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/versioning/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/versioning/"/>
+         <loc>https://ctoframework.com/tech/versioning/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/"/>
+         <loc>https://ctoframework.com/tech/architecture/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/architectural-decision-record/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/architectural-decision-record/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/architectural-decision-record/"/>
+         <loc>https://ctoframework.com/tech/architecture/architectural-decision-record/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/c4-diagrams/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/c4-diagrams/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/c4-diagrams/"/>
+         <loc>https://ctoframework.com/tech/architecture/c4-diagrams/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/cap-theorem/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/cap-theorem/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/cap-theorem/"/>
+         <loc>https://ctoframework.com/tech/architecture/cap-theorem/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/cqrs/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/cqrs/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/cqrs/"/>
+         <loc>https://ctoframework.com/tech/architecture/cqrs/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/horizontal-vertical-scaling/"/>
+         <loc>https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/infrastructure-models/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/infrastructure-models/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/infrastructure-models/"/>
+         <loc>https://ctoframework.com/tech/architecture/infrastructure-models/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/moores-law/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/moores-law/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/moores-law/"/>
+         <loc>https://ctoframework.com/tech/architecture/moores-law/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/new-tech-introduction/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/new-tech-introduction/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/new-tech-introduction/"/>
+         <loc>https://ctoframework.com/tech/architecture/new-tech-introduction/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/osi-model/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/osi-model/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/osi-model/"/>
+         <loc>https://ctoframework.com/tech/architecture/osi-model/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/sql-vs-nosql/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/sql-vs-nosql/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/sql-vs-nosql/"/>
+         <loc>https://ctoframework.com/tech/architecture/sql-vs-nosql/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/tools/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/tools/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/tools/"/>
+         <loc>https://ctoframework.com/tech/architecture/tools/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/apis/hateoas/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/apis/hateoas/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/apis/hateoas/"/>
+         <loc>https://ctoframework.com/tech/architecture/apis/hateoas/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/apis/restful-apis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/apis/restful-apis/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/apis/restful-apis/"/>
+         <loc>https://ctoframework.com/tech/architecture/apis/restful-apis/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/architecture/data/medallion-architecture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/data/medallion-architecture/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/data/medallion-architecture/"/>
+         <loc>https://ctoframework.com/tech/architecture/data/medallion-architecture/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/development/boy-scout-rule/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/boy-scout-rule/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/boy-scout-rule/"/>
+         <loc>https://ctoframework.com/tech/development/boy-scout-rule/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/development/design-patterns/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/design-patterns/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/design-patterns/"/>
+         <loc>https://ctoframework.com/tech/development/design-patterns/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/development/engineer-must-know/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/engineer-must-know/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/engineer-must-know/"/>
+         <loc>https://ctoframework.com/tech/development/engineer-must-know/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/development/katas/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/katas/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/katas/"/>
+         <loc>https://ctoframework.com/tech/development/katas/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/development/key-development-principles/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/key-development-principles/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/key-development-principles/"/>
+         <loc>https://ctoframework.com/tech/development/key-development-principles/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/development/solid-principles/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/solid-principles/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/solid-principles/"/>
+         <loc>https://ctoframework.com/tech/development/solid-principles/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/devops/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/"/>
+         <loc>https://ctoframework.com/tech/devops/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/devops/devops-culture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/devops-culture/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/devops-culture/"/>
+         <loc>https://ctoframework.com/tech/devops/devops-culture/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/devops/dkmi/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/dkmi/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/dkmi/"/>
+         <loc>https://ctoframework.com/tech/devops/dkmi/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/quality/metrics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/quality/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/quality/metrics/"/>
+         <loc>https://ctoframework.com/tech/quality/metrics/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/research/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/research/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/research/"/>
+         <loc>https://ctoframework.com/tech/research/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/security/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/security/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/security/"/>
+         <loc>https://ctoframework.com/tech/security/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/security/shift-left-security/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/security/shift-left-security/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/security/shift-left-security/"/>
+         <loc>https://ctoframework.com/tech/security/shift-left-security/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/security/threat-modelling/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/security/threat-modelling/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/security/threat-modelling/"/>
+         <loc>https://ctoframework.com/tech/security/threat-modelling/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-        <loc>https://ctoframework.com/tech/trends/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/trends/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/trends/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/humour/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/humour/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/humour/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/agile-methodologies/dor-dod/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/dor-dod/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/dor-dod/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/agile-methodologies/extreme-programming/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/extreme-programming/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/extreme-programming/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/agile-methodologies/safe/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/safe/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/safe/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/agile-methodologies/scrum/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/agile-methodologies/scrum/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/agile-methodologies/scrum/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/estimations/estimation-methods/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/estimations/estimation-methods/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/estimations/estimation-methods/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/estimations/montecarlo-simulations/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/estimations/montecarlo-simulations/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/estimations/montecarlo-simulations/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/estimations/single-point-estimates/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/estimations/single-point-estimates/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/estimations/single-point-estimates/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/incident-management/occams-razor/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/incident-management/occams-razor/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/incident-management/occams-razor/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/incident-management/root-cause-analysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/incident-management/root-cause-analysis/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/incident-management/root-cause-analysis/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/incident-management/technical-post-mortems/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/incident-management/technical-post-mortems/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/incident-management/technical-post-mortems/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/literature/books/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/literature/books/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/literature/books/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/literature/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/literature/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/literature/quotes/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/metrics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/metrics/north-star-metric/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/north-star-metric/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/north-star-metric/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/metrics/rto-rpo/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/rto-rpo/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/rto-rpo/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/metrics/say-do-ratio/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/say-do-ratio/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/say-do-ratio/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/metrics/sla-slo-sli/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/metrics/sla-slo-sli/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/metrics/sla-slo-sli/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/project-management/analysis-paralysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/analysis-paralysis/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/analysis-paralysis/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/project-management/prioritisation/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/prioritisation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/prioritisation/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/project-management/project-triangle/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/project-triangle/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/project-triangle/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/project-management/raci-matrix/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/raci-matrix/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/raci-matrix/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/project-management/risks/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/project-management/risks/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/project-management/risks/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/reporting/four-square-reports/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/reporting/four-square-reports/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/reporting/four-square-reports/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/reporting/rag-reports/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/reporting/rag-reports/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/reporting/rag-reports/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/delivery/systems-thinking/iceberg-model/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/delivery/systems-thinking/iceberg-model/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/delivery/systems-thinking/iceberg-model/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/budget-breakdown/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/budget-breakdown/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/budget-breakdown/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/terms/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/terms/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/terms/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/top-down-vs-bottom-up-budgeting/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/top-down-vs-bottom-up-budgeting/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/top-down-vs-bottom-up-budgeting/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/costs/cloud-costs/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/costs/cloud-costs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/costs/cloud-costs/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/costs/total-cost-ownership/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/costs/total-cost-ownership/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/costs/total-cost-ownership/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/investment/investment-rounds/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/investment/investment-rounds/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/investment/investment-rounds/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/investment/return-of-investment/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/investment/return-of-investment/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/investment/return-of-investment/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/investment/shares-stock/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/investment/shares-stock/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/investment/shares-stock/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/literature/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/literature/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/literature/quotes/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/literature/stories/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/literature/stories/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/literature/stories/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/finance/salaries/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/finance/salaries/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/finance/salaries/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/most-influential-ctos/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/most-influential-ctos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/most-influential-ctos/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/career-development/career-ladders/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/career-ladders/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/career-ladders/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/career-development/career-plans/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/career-plans/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/career-plans/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/career-development/first-90-days-cto/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/first-90-days-cto/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/first-90-days-cto/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/career-development/peter-principle/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/career-development/peter-principle/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/career-development/peter-principle/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/communication/assertive-communication/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/assertive-communication/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/assertive-communication/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/communication/communication-lines/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/communication-lines/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/communication-lines/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/communication/preattentive-attributes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/preattentive-attributes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/preattentive-attributes/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/communication/star-method/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/star-method/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/star-method/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/communication/story-telling/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/story-telling/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/story-telling/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/communication/verbal-vs-non-verbal/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/communication/verbal-vs-non-verbal/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/communication/verbal-vs-non-verbal/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/culture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/culture/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/culture/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/culture/blameless-culture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/culture/blameless-culture/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/culture/blameless-culture/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/delegation/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/delegation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/delegation/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/diversity/theory-multiple-intelligence/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/diversity/theory-multiple-intelligence/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/diversity/theory-multiple-intelligence/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/feedback/360-feedback/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/360-feedback/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/360-feedback/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/feedback/blob-tree/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/blob-tree/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/blob-tree/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/feedback/pulse-surveys/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/pulse-surveys/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/pulse-surveys/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/feedback/skip-levels/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/feedback/skip-levels/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/feedback/skip-levels/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/goal-setting/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/goal-setting/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/goal-setting/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/leadership/leadership-styles/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/leadership/leadership-styles/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/leadership/leadership-styles/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/literature/books/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/literature/books/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/literature/books/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/literature/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/literature/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/literature/quotes/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/literature/stories/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/literature/stories/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/literature/stories/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/offboarding/exit-interview/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/offboarding/exit-interview/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/offboarding/exit-interview/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/organisations/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/organisations/corporate-nicknames-demonyms/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/corporate-nicknames-demonyms/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/corporate-nicknames-demonyms/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/organisations/dunbars-number/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/dunbars-number/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/dunbars-number/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/organisations/matrix-organisations/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/organisations/matrix-organisations/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/organisations/matrix-organisations/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/performance/9-boxes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/performance/9-boxes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/performance/9-boxes/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/performance/personal-improvement-plan/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/performance/personal-improvement-plan/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/performance/personal-improvement-plan/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/performance/prices-law/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/performance/prices-law/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/performance/prices-law/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/cognitive-bias/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/cognitive-bias/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/cognitive-bias/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/colour-psychology/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/colour-psychology/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/colour-psychology/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/emotional-intelligence/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/emotional-intelligence/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/emotional-intelligence/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/fixed-growth-mindsets/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/fixed-growth-mindsets/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/fixed-growth-mindsets/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/imposter-syndrome/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/imposter-syndrome/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/imposter-syndrome/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/social-loafing/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/social-loafing/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/social-loafing/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/psychology/yerkes-dodson-law/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/psychology/yerkes-dodson-law/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/psychology/yerkes-dodson-law/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/skillset/t-shaped-people/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/skillset/t-shaped-people/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/skillset/t-shaped-people/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/team/high-performing-teams/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/high-performing-teams/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/high-performing-teams/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/team/skills-matrix/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/skills-matrix/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/skills-matrix/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/team/stages-group-development/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/stages-group-development/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/stages-group-development/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/team/team-charters/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/team-charters/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/team-charters/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/team/team-topologies/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/team/team-topologies/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/team/team-topologies/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/time-management/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/time-management/eisenhower-matrix/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/eisenhower-matrix/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/eisenhower-matrix/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/time-management/pomodoro-technique/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/pomodoro-technique/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/pomodoro-technique/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/people/time-management/students-syndrome/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/people/time-management/students-syndrome/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/people/time-management/students-syndrome/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/quotes/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/quotes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/quotes/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/analytics/descriptive-predictive-prescriptive/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/descriptive-predictive-prescriptive/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/analytics/empirical-vs-anecdotal/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/empirical-vs-anecdotal/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/empirical-vs-anecdotal/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/analytics/heuristics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/heuristics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/heuristics/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/analytics/nps/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/nps/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/nps/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/analytics/saas-metrics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/analytics/saas-metrics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/analytics/saas-metrics/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/experimentation/abn-testing/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/abn-testing/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/abn-testing/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/experimentation/minimum-viable-product/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/minimum-viable-product/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/minimum-viable-product/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/experimentation/product-lifecycle/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/experimentation/product-lifecycle/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/experimentation/product-lifecycle/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/licensing/open-source-licenses/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/licensing/open-source-licenses/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/licensing/open-source-licenses/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/requirements/compliance/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/compliance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/compliance/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/requirements/five-nines/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/five-nines/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/five-nines/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/requirements/non-functional-requirements/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/non-functional-requirements/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/non-functional-requirements/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/requirements/pii/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/pii/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/pii/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/requirements/standards/ISO42001/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/requirements/standards/ISO42001/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/requirements/standards/ISO42001/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/strategy/business-models/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/business-models/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/business-models/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/strategy/pestle-analysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/pestle-analysis/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/pestle-analysis/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/strategy/planning-horizon/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/planning-horizon/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/planning-horizon/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/strategy/swot-analysis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/strategy/swot-analysis/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/strategy/swot-analysis/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/ui-ux/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/ui-ux/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/ui-ux/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/ui-ux/design-systems/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/ui-ux/design-systems/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/ui-ux/design-systems/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/product/ui-ux/user-personas/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/product/ui-ux/user-personas/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/product/ui-ux/user-personas/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/resources/blogs/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/resources/blogs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/resources/blogs/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/resources/books/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/resources/books/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/resources/books/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/resources/podcasts/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/resources/podcasts/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/resources/podcasts/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/versioning/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/versioning/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/versioning/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/architectural-decision-record/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/architectural-decision-record/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/architectural-decision-record/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/c4-diagrams/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/c4-diagrams/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/c4-diagrams/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/cap-theorem/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/cap-theorem/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/cap-theorem/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/cqrs/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/cqrs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/cqrs/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/horizontal-vertical-scaling/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/horizontal-vertical-scaling/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/infrastructure-models/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/infrastructure-models/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/infrastructure-models/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/moores-law/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/moores-law/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/moores-law/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/new-tech-introduction/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/new-tech-introduction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/new-tech-introduction/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/osi-model/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/osi-model/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/osi-model/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/sql-vs-nosql/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/sql-vs-nosql/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/sql-vs-nosql/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/tools/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/tools/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/tools/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/apis/hateoas/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/apis/hateoas/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/apis/hateoas/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/apis/restful-apis/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/apis/restful-apis/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/apis/restful-apis/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/architecture/data/medallion-architecture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/architecture/data/medallion-architecture/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/architecture/data/medallion-architecture/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/development/boy-scout-rule/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/boy-scout-rule/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/boy-scout-rule/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/development/design-patterns/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/design-patterns/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/design-patterns/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/development/engineer-must-know/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/engineer-must-know/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/engineer-must-know/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/development/katas/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/katas/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/katas/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/development/key-development-principles/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/key-development-principles/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/key-development-principles/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/development/solid-principles/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/development/solid-principles/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/development/solid-principles/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/devops/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/devops/devops-culture/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/devops-culture/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/devops-culture/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/devops/dkmi/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/devops/dkmi/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/devops/dkmi/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/quality/metrics/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/quality/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/quality/metrics/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/research/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/research/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/research/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/security/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/security/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/security/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/security/shift-left-security/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/security/shift-left-security/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/security/shift-left-security/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/security/threat-modelling/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/security/threat-modelling/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/security/threat-modelling/"/>
-    </url>
-    <url>
-        <loc>https://ctoframework.com/es/tech/trends/</loc>
-        <lastmod>2025-04-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://ctoframework.com/es/tech/trends/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ctoframework.com/tech/trends/"/>
+         <loc>https://ctoframework.com/tech/trends/</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
 </urlset>
