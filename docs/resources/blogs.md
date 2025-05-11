@@ -16,6 +16,7 @@ tags:
 | [Booking.com Tech blog](https://blog.booking.com/)                                   | Travel / Hospitality      |                                 |
 | [Canva Engineering blog](https://www.canva.dev/blog/engineering/)                    | Design / SaaS             |                                 |
 | [Capital One](https://www.capitalone.com/tech/blog/)                                 | Finance / Banking         |                                 |
+| [CloudFlare blog](https://blog.cloudflare.com/)                                      | Cloud / Infrastructure    |                                 |
 | [Databricks Engineering blog](https://www.databricks.com/blog/category/engineering)  | Data / AI / Cloud         |                                 |
 | [Discord Engineering and Design](https://discord.com/blog)                           | Communication / Gaming    |                                 |
 | [Disney Streaming](https://medium.com/disney-streaming)                              | Media / Streaming         |                                 |
