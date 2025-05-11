@@ -373,10 +373,6 @@
          <lastmod>2025-05-11</lastmod>
     </url>
     <url>
-         <loc>https://ctoframework.com/product/quotes/</loc>
-         <lastmod>2025-05-11</lastmod>
-    </url>
-    <url>
          <loc>https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/</loc>
          <lastmod>2025-05-11</lastmod>
     </url>
@@ -410,6 +406,10 @@
     </url>
     <url>
          <loc>https://ctoframework.com/product/licensing/open-source-licenses/</loc>
+         <lastmod>2025-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/product/literature/quotes/</loc>
          <lastmod>2025-05-11</lastmod>
     </url>
     <url>
@@ -486,6 +486,10 @@
     </url>
     <url>
          <loc>https://ctoframework.com/tech/</loc>
+         <lastmod>2025-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/tech/humour/</loc>
          <lastmod>2025-05-11</lastmod>
     </url>
     <url>
