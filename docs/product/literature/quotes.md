@@ -16,6 +16,8 @@ title: Quotes
 
 > I have not failed, but found 1000 ways to not make a light bulb<br>[Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
 
+> Necessity is the mother of invention<br>(read more on the [Wikipedia](https://en.wikipedia.org/wiki/Necessity_is_the_mother_of_invention))
+
 ## Agility
 
 > Perfect is the enemy of good.<br>[_Voltaire_](https://en.wikipedia.org/wiki/Voltaire)

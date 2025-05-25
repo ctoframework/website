@@ -26,6 +26,10 @@
 
 > Everybody wants a gold medal, but few people want to train like an Olympian.<br/>[_James Clear_](https://en.wikipedia.org/wiki/James_Clear)
 
+## Learning
+
+> What I cannot create, I do not understand<br/>[_Richard Feynman_](https://en.wikipedia.org/wiki/Richard_Feynman)
+
 ## Resiliance
 
 > A smooth sea never made a skilled sailor.<br/>[_Franklin D. Roosevelt_](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt)
