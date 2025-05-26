@@ -49,3 +49,7 @@
 
 **Root Cause:** Inadequate testing process before software updates.  
 **Solution:** Implement a robust testing protocol before deployment.
+
+## References
+
+- [Five whys on Wikipedia](https://en.wikipedia.org/wiki/Five_whys)

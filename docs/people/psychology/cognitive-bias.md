@@ -40,3 +40,8 @@ Cognitive biases are the result of:
 - **Seeking Contradictory Evidence** – Actively challenge your assumptions.
 - **Using Data and Logic** – Base decisions on objective facts rather than intuition.
 - **Taking Time to Reflect** – Avoid making impulsive decisions.
+
+## References
+
+- [YourBias.is](https://yourbias.is/) : Explanations and posters to download or purchase.
+- [Every Single Cognitive Bias in One Infographic](https://www.visualcapitalist.com/every-single-cognitive-bias/)

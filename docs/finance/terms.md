@@ -27,3 +27,7 @@
 `3+9`
 
 : A rolling forecast model that uses three months of actual data and nine months of predicted data
+
+`GAAP`
+
+: Generally Accepted Accounting Principles

@@ -5,6 +5,8 @@ tags:
 
 # Blogs & Newsletters
 
+## Companies
+
 | Name & Link                                                                          | Category                  | Notes                           |
 | ------------------------------------------------------------------------------------ | ------------------------- | ------------------------------- |
 | [Acast Tech](https://medium.com/acast-tech)                                          | Podcasting / Media        |                                 |
@@ -65,3 +67,11 @@ tags:
 | [Yelp Engineering Blog](https://engineeringblog.yelp.com/)                           | Reviews / Local Services  |                                 |
 | [Zomato](https://blog.zomato.com/category/technology)                                | Food Delivery / Reviews   |                                 |
 | [Zynga Engineering](https://www.zynga.com/blogs/engineering)                         | Gaming                    |                                 |
+
+## People
+
+- [Alex Ewerlöf](https://blog.alexewerlof.com/)
+- [The Owl and the Beetle by Luca Sartoni](https://www.theowlandthebeetle.email/)
+- [Hagakure by Paulo André](https://hagakure.substack.com/)
+- [Level Up Software Engineering by Caleb Mellas](https://levelupsoftwareengineering.substack.com/)
+- [Journal of Discoveries by Roberto Ferraro](https://robertoferraro.substack.com/)
