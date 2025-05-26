@@ -1,6 +1,11 @@
+---
+title: Goodhart’s Law
+---
+
 # Goodhart’s Law in Software Engineering
 
 ## **Definition**
+
 **"When a measure becomes a target, it ceases to be a good measure."**
 
 At its core, Goodhart’s Law highlights a fundamental risk in managing complex systems: once a specific metric is used to guide behaviour or assess success, it can distort the very process it was intended to monitor.
@@ -18,23 +23,27 @@ People respond to incentives. When a metric is elevated to the status of a targe
 ## **Examples in Software Engineering**
 
 ### **1. Lines of Code (LoC)**
-- **Intent:** Measure productivity.  
-- **Consequence:** Developers may write verbose or unnecessarily complex code to appear productive. The result is a bloated codebase, higher maintenance costs, and degraded performance.  
+
+- **Intent:** Measure productivity.
+- **Consequence:** Developers may write verbose or unnecessarily complex code to appear productive. The result is a bloated codebase, higher maintenance costs, and degraded performance.
 - **Better alternative:** Emphasise value delivered, such as completed features or reduced technical debt, alongside peer-reviewed code quality assessments.
 
 ### **2. Velocity in Agile (Story Points Completed per Sprint)**
-- **Intent:** Track team throughput.  
-- **Consequence:** Teams may inflate estimates or split tasks unnaturally to boost their numbers, undermining the integrity of sprint planning. Worse, velocity becomes a competitive metric rather than a planning tool.  
-- **Better alternative:** Use velocity as a *team-internal* planning guide, and combine it with qualitative retrospectives and customer feedback.
+
+- **Intent:** Track team throughput.
+- **Consequence:** Teams may inflate estimates or split tasks unnaturally to boost their numbers, undermining the integrity of sprint planning. Worse, velocity becomes a competitive metric rather than a planning tool.
+- **Better alternative:** Use velocity as a _team-internal_ planning guide, and combine it with qualitative retrospectives and customer feedback.
 
 ### **3. Number of Deployments**
-- **Intent:** Encourage continuous delivery and faster iteration.  
-- **Consequence:** Teams might deploy frequently without meaningful changes or skip thorough testing, leading to an increase in post-deployment issues and instability.  
-- **Better alternative:** Monitor *deployment success rate* and *time to resolve production issues* alongside deployment frequency.
+
+- **Intent:** Encourage continuous delivery and faster iteration.
+- **Consequence:** Teams might deploy frequently without meaningful changes or skip thorough testing, leading to an increase in post-deployment issues and instability.
+- **Better alternative:** Monitor _deployment success rate_ and _time to resolve production issues_ alongside deployment frequency.
 
 ### **4. Bug Closure Rate**
-- **Intent:** Track responsiveness to issues.  
-- **Consequence:** Engineers may prioritise trivial bugs that are easy to fix to inflate closure stats, while critical but complex issues remain neglected.  
+
+- **Intent:** Track responsiveness to issues.
+- **Consequence:** Engineers may prioritise trivial bugs that are easy to fix to inflate closure stats, while critical but complex issues remain neglected.
 - **Better alternative:** Weight bug fixes by severity and impact, and track time-to-resolution for high-priority issues.
 
 ---
