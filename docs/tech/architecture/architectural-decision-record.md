@@ -34,11 +34,13 @@ We need to store user data for a new user management service. The system needs t
 **Decision**:  
 We will use PostgreSQL as the primary database for the user management service due to its robustness, support for complex queries, and transactional capabilities. We will use Redis as a caching layer to handle high-traffic operations like session management.
 
-**Consequences**:  
+**Consequences**:
+
 - **Positive**: PostgreSQL provides ACID compliance and is suitable for handling complex queries related to user data (e.g., user search, login history). Redis will speed up performance for frequently accessed data, reducing the load on the primary database.
 - **Negative**: Using both PostgreSQL and Redis introduces additional complexity, as we now need to maintain two systems. There is also potential for data inconsistency if caching is not properly handled.
 
-**Related Decisions**:  
+**Related Decisions**:
+
 - ADR-001: "Choosing the Cache Layer"
 - ADR-002: "Deciding on Database Transaction Model"
 
@@ -56,11 +58,13 @@ The current monolithic approach to the product catalog service has resulted in s
 **Decision**:  
 We will migrate to a microservices architecture for the product catalog service. This will involve breaking the monolithic catalog into smaller, independent services, each responsible for a specific set of catalog-related tasks (e.g., product details, inventory management, pricing).
 
-**Consequences**:  
+**Consequences**:
+
 - **Positive**: Microservices allow for independent scaling of different components, improving overall system performance. Deployments can be more frequent and isolated, reducing the impact on other services.
 - **Negative**: Microservices introduce complexity in terms of inter-service communication, management, and deployment. We will need to invest in infrastructure for service discovery, API gateways, and monitoring. Also, the risk of data duplication increases, as each service might require its own database.
 
-**Related Decisions**:  
+**Related Decisions**:
+
 - ADR-003: "API Gateway for Microservices"
 - ADR-004: "Choosing a Service Discovery Mechanism"
 
@@ -78,11 +82,13 @@ We are building a new web application, and need to choose a frontend framework. 
 **Decision**:  
 We will use React for the frontend. React has a large community, robust ecosystem, and allows for flexible, component-based architecture. It also integrates well with our existing backend APIs.
 
-**Consequences**:  
+**Consequences**:
+
 - **Positive**: React's component-based structure will allow for reusable components, making the application easier to maintain and scale. Its large ecosystem provides a wealth of libraries, and it is widely supported by the developer community.
 - **Negative**: React's learning curve may be steeper for team members unfamiliar with it, especially when it comes to managing state with tools like Redux. Additionally, as the application grows, the need for proper architecture (e.g., managing side effects, code splitting) becomes more critical.
 
-**Related Decisions**:  
+**Related Decisions**:
+
 - ADR-005: "State Management for React Application"
 - ADR-006: "Using TypeScript with React"
 
@@ -99,3 +105,6 @@ We will use React for the frontend. React has a large community, robust ecosyste
 
 As the system evolves, decisions may need to be revisited. For example, if a previously chosen technology no longer fits the system's needs, an ADR may be created to document the change and explain why a different technology or approach is being adopted. This ensures that the system’s evolution is well-documented, providing context for future decision-makers.
 
+## References
+
+- [ADR Github Organisation](https://adr.github.io/)

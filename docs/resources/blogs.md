@@ -75,3 +75,4 @@ tags:
 - [Hagakure by Paulo André](https://hagakure.substack.com/)
 - [Level Up Software Engineering by Caleb Mellas](https://levelupsoftwareengineering.substack.com/)
 - [Journal of Discoveries by Roberto Ferraro](https://robertoferraro.substack.com/)
+- [The Engineering Leader by Rafa Páez](https://newsletter.rafapaez.com/)

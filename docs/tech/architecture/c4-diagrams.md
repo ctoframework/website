@@ -323,3 +323,7 @@ classDiagram
 | Container | Applications & data stores          | Architects, engineers             |
 | Component | Logical structure within containers | Engineers, developers             |
 | Code      | Class-level detail                  | Developers                        |
+
+## References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/C4_model)

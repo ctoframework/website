@@ -4,11 +4,11 @@
 
 At its core, an SBOM is a **machine-readable inventory** of all the components that make up a software application. This includes:
 
-- Open-source and proprietary libraries  
-- Version numbers of each component  
-- Licences associated with them  
-- Direct and transitive dependencies  
-- Metadata such as suppliers and cryptographic hashes  
+- Open-source and proprietary libraries
+- Version numbers of each component
+- Licences associated with them
+- Direct and transitive dependencies
+- Metadata such as suppliers and cryptographic hashes
 
 It is akin to a supply chain manifest in manufacturing: if you’re building a car, you need to know the origin, quality, and specifications of each part. Software is no different.
 
@@ -35,9 +35,9 @@ SBOMs also simplify **compliance with licence obligations**, helping avoid the a
 
 Modern software development relies heavily on a **software supply chain**. Without transparency, that chain is opaque and fragile. An SBOM provides visibility into that chain, enabling:
 
-- **Risk assessments** of third-party software  
-- **Supplier due diligence**  
-- Proactive **remediation planning** for unmaintained or deprecated components  
+- **Risk assessments** of third-party software
+- **Supplier due diligence**
+- Proactive **remediation planning** for unmaintained or deprecated components
 
 It’s an enabler of both **technical resilience** and **vendor accountability**.
 
@@ -45,10 +45,10 @@ It’s an enabler of both **technical resilience** and **vendor accountability**
 
 SBOMs are also invaluable in:
 
-- **Incident response**: Speeding up triage and patching  
-- **Audits**: Providing clear artefacts for internal or third-party review  
-- **End-of-life planning**: Identifying outdated dependencies before they become liabilities  
-- **M&A due diligence**: Quickly assessing the software landscape of an acquisition target  
+- **Incident response**: Speeding up triage and patching
+- **Audits**: Providing clear artefacts for internal or third-party review
+- **End-of-life planning**: Identifying outdated dependencies before they become liabilities
+- **M&A due diligence**: Quickly assessing the software landscape of an acquisition target
 
 They provide a living map of your software estate, supporting better governance and maintainability.
 
@@ -58,8 +58,8 @@ They provide a living map of your software estate, supporting better governance 
 
 Generating and maintaining an SBOM can be automated using tools like:
 
-- **Syft**, **CycloneDX**, or **SPDX** (standards for SBOM formats)  
-- **SCA tools** (Software Composition Analysis) like Snyk, Black Duck, or GitHub’s Dependabot  
+- **Syft** ([Github](https://github.com/anchore/syft)), **CycloneDX** ([Github](https://github.com/CycloneDX)), or **SPDX** (standards for SBOM formats)
+- **SCA tools** (Software Composition Analysis) like [Snyk](https://snyk.io/), [Black Duck](https://www.blackduck.com/), or GitHub’s Dependabot
 
 These tools can be integrated into CI/CD pipelines to ensure SBOMs are generated and updated continuously with each release.
 
@@ -69,7 +69,7 @@ These tools can be integrated into CI/CD pipelines to ensure SBOMs are generated
 
 While SBOMs offer immense value, organisations need to consider:
 
-- **Data accuracy and completeness**: SBOMs must capture transitive dependencies to be fully effective.  
-- **Integration into workflows**: Embedding SBOM generation into the SDLC is key to scalability.  
-- **Storage and access controls**: Treat SBOMs as sensitive assets; they can reveal exploitable metadata if mismanaged.  
+- **Data accuracy and completeness**: SBOMs must capture transitive dependencies to be fully effective.
+- **Integration into workflows**: Embedding SBOM generation into the SDLC is key to scalability.
+- **Storage and access controls**: Treat SBOMs as sensitive assets; they can reveal exploitable metadata if mismanaged.
 - **Standardisation**: Aligning on a format (e.g. CycloneDX vs SPDX) that suits your ecosystem and partners.
