@@ -2,670 +2,694 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ctoframework.com/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/contact/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/humour/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/agile-methodologies/dor-dod/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/agile-methodologies/extreme-programming/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/agile-methodologies/safe/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/agile-methodologies/scrum/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/estimations/estimation-methods/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/estimations/montecarlo-simulations/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/estimations/single-point-estimates/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/incident-management/occams-razor/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/incident-management/root-cause-analysis/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/incident-management/technical-post-mortems/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/literature/books/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/literature/idioms/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/literature/quotes/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/delivery/metrics/cmmi/</loc>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/metrics/dora-metrics/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/metrics/goodharts-law/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/metrics/north-star-metric/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/metrics/rto-rpo/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/metrics/say-do-ratio/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/metrics/sla-slo-sli/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/metrics/space-metrics/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/project-management/analysis-paralysis/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/delivery/project-management/itil/</loc>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/project-management/prioritisation/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/project-management/project-triangle/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/project-management/raci-matrix/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/project-management/risks/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/reporting/four-square-reports/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/reporting/rag-reports/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/delivery/systems-thinking/iceberg-model/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/budget-breakdown/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/terms/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/top-down-vs-bottom-up-budgeting/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/costs/cloud-costs/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/costs/total-cost-ownership/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/investment/investment-rounds/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/investment/return-of-investment/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/investment/shares-stock/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/literature/quotes/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/literature/stories/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/finance/salaries/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/most-influential-ctos/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/career-development/career-ladders/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/career-development/career-plans/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/career-development/first-90-days-cto/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/career-development/peter-principle/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/communication/asking-questions/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/communication/assertive-communication/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/communication/communication-lines/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/communication/preattentive-attributes/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/communication/star-method/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/communication/story-telling/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/communication/verbal-vs-non-verbal/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/culture/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/culture/blameless-culture/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/delegation/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/people/diversity/myers-briggs-type-indicator/</loc>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/diversity/theory-multiple-intelligence/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/feedback/360-feedback/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/feedback/blob-tree/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/feedback/pulse-surveys/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/feedback/skip-levels/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/goal-setting/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/hiring/hire-slow-fire-fast/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/hiring/induction-plans/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/leadership/leadership-styles/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/literature/books/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/literature/quotes/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/literature/stories/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/offboarding/exit-interview/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/organisations/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/organisations/company-values/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/organisations/corporate-nicknames-demonyms/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/organisations/dunbars-number/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/organisations/matrix-organisations/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/performance/9-boxes/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/performance/personal-improvement-plan/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/performance/prices-law/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/cognitive-bias/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/colour-psychology/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/people/psychology/dunning-kruger/</loc>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/emotional-intelligence/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/fixed-growth-mindsets/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/imposter-syndrome/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/social-loafing/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/psychology/yerkes-dodson-law/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/skillset/t-shaped-people/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/team/high-performing-teams/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/team/skills-matrix/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/team/stages-group-development/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/team/team-charters/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/team/team-topologies/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/time-management/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/time-management/eisenhower-matrix/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/time-management/pomodoro-technique/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/people/time-management/students-syndrome/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/analytics/descriptive-predictive-prescriptive/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/analytics/empirical-vs-anecdotal/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/analytics/heuristics/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/analytics/nps/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/analytics/saas-metrics/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/experimentation/abn-testing/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/experimentation/minimum-viable-product/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/experimentation/product-lifecycle/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/licensing/open-source-licenses/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/literature/quotes/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/releases/release-notes/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/releases/versioning/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/requirements/compliance/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/requirements/five-nines/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/requirements/non-functional-requirements/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/requirements/pii/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/requirements/standards/ISO42001/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/strategy/business-models/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/strategy/pestle-analysis/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/strategy/planning-horizon/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/strategy/swot-analysis/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/ui-ux/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/ui-ux/design-systems/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/product/ui-ux/user-personas/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/resources/awesome-lists/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/resources/blogs/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/resources/books/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/resources/communities/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/resources/handbooks/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/resources/misc/</loc>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/resources/podcasts/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/humour/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/architectural-decision-record/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/c4-diagrams/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/cap-theorem/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/cqrs/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/horizontal-vertical-scaling/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/infrastructure-models/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/moores-law/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/new-tech-introduction/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/osi-model/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/sql-vs-nosql/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/tech-radar/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/tools/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/apis/hateoas/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/apis/restful-apis/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/architecture/data/medallion-architecture/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/development/boy-scout-rule/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/development/design-patterns/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/development/engineer-must-know/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/development/katas/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/development/key-development-principles/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/development/request-for-comments/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/development/solid-principles/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/devops/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/devops/devops-culture/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/devops/dkmi/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://ctoframework.com/tech/devops/error-budgets/</loc>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/devops/kubernetes-concepts/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/literature/laws/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/quality/metrics/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/research/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/security/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/security/sbom/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/security/shift-left-security/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/security/threat-modelling/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
     <url>
          <loc>https://ctoframework.com/tech/trends/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <lastmod>2025-06-04</lastmod>
     </url>
 </urlset>
