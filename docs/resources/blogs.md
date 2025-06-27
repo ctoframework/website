@@ -76,3 +76,4 @@ tags:
 - [Level Up Software Engineering by Caleb Mellas](https://levelupsoftwareengineering.substack.com/)
 - [Journal of Discoveries by Roberto Ferraro](https://robertoferraro.substack.com/)
 - [The Engineering Leader by Rafa Páez](https://newsletter.rafapaez.com/)
+- [The Conscious Leader by Taha Hussain](https://tahahussain.substack.com/)
