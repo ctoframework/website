@@ -23,3 +23,7 @@ While individuals are not blamed, they are still accountable for their work. The
 ### 5. Fostering Innovation
 
 A blame-free environment encourages experimentation and innovation, as teams are not held back by fear of failure.
+
+## External references
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Blame_in_organizations)

@@ -45,3 +45,4 @@ Cognitive biases are the result of:
 
 - [YourBias.is](https://yourbias.is/) : Explanations and posters to download or purchase.
 - [Every Single Cognitive Bias in One Infographic](https://www.visualcapitalist.com/every-single-cognitive-bias/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_bias)
