@@ -41,4 +41,4 @@ How teams interact is crucial to minimizing friction and maximizing efficiency:
 
 ## See also
 
-- The "Two-Pizza Rule" (Amazon)
+- [Two-Pizza team](https://martinfowler.com/bliki/TwoPizzaTeam.html)
