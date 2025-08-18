@@ -39,3 +39,7 @@ Organizations can take steps to prevent this from happening by:
 ## **Final Thought**
 
 The Peter Principle is not inevitable, but it highlights the risks of assuming that success in one role guarantees success in another. Organizations that recognize and prepare for this challenge can create pathways that allow individuals to grow into leadership effectively—rather than being set up for failure.
+
+## References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Peter_principle)

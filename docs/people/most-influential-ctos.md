@@ -19,3 +19,4 @@ title: Most influential CTOs
 | Will Grannis             | Google Cloud                                    |                                                                                                         |
 | Andrew Bosworth          | Meta                                            |                                                                                                         |
 | David Heinemeier Hansson | Creator of Ruby on Rails, co-owner of 37signals | [LinkedIn](https://www.linkedin.com/in/david-heinemeier-hansson-374b18221/), [Website](https://dhh.dk/) |
+| Kevin Lynch              | Adobe, Apple                                    | [Wikipedia](<https://en.wikipedia.org/wiki/Kevin_Lynch_(computing)>)                                    |
