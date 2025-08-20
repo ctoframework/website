@@ -43,3 +43,8 @@ By periodically reviewing and updating the Tech Radar, organisations maintain a 
 ## Public Tech Radars
 
 - [Zalando](https://opensource.zalando.com/tech-radar/)
+- [AOE](https://techradar.aoe.com/index.html)
+- [Software AG](https://techradar.softwareag.com/)
+- [Content square](https://engineering.contentsquare.com/techradar/)
+- [Unit8](https://radar.unit8.com/)
+- [Inthepocket](https://tech.inthepocket.com/)
