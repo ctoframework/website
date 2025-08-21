@@ -108,3 +108,4 @@ As the system evolves, decisions may need to be revisited. For example, if a pre
 ## References
 
 - [ADR Github Organisation](https://adr.github.io/)
+- [ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html) (AWS Prescriptive Guidance)

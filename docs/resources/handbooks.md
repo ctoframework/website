@@ -3,6 +3,7 @@
 | Company    | Handbook Title                                                                                                       |
 | ---------- | -------------------------------------------------------------------------------------------------------------------- |
 | 37signals  | [37signals Employee Handbook](https://github.com/basecamp/handbook)                                                  |
+| AM Digital | [Playform Development Playbook](https://playbook.platformdev.amdigital.co.uk/)                                       |
 | Automattic | [Automattic employee handbook](https://automattic.com/fieldguide/)                                                   |
 | Atlassian  | [Atlassian Team Plabook](https://www.atlassian.com/team-playbook/plays)                                              |
 | Hashicorp  | [How Hashicorp Works](https://www.hashicorp.com/en/how-hashicorp-works)                                              |
