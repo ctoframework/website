@@ -1,8 +1,7 @@
-#
-
-## Trends
+# Trends
 
 - [Thought works technology radar](https://www.thoughtworks.com/radar)
+- [DZone Trend Report Library](https://dzone.com/trendreports)
 - [StackOverflow's annual developer survey](https://stackoverflow.blog/2025/01/01/developers-want-more-more-more-the-2024-results-from-stack-overflow-s-annual-developer-survey/)
 - [StackOverflow's tag trends](https://trends.stackoverflow.co/)
 - [MIT Technology Review](https://www.technologyreview.com/)
