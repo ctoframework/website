@@ -1,10 +1,8 @@
 # Company values
 
-## Examples of Most Popular Tech Company Values
+Examples of Most Popular Tech Company Values
 
----
-
-### **1. Google (Alphabet Inc.)**
+## **Google (Alphabet Inc.)**
 
 - Focus on the user and all else will follow
 - It's best to do one thing really, really well
@@ -16,7 +14,7 @@
 
 ---
 
-### **2. Apple**
+## **Apple**
 
 Apple doesn’t publish a formal list of core values like others, but its culture is defined by principles such as:
 
@@ -30,7 +28,7 @@ Apple doesn’t publish a formal list of core values like others, but its cultur
 
 ---
 
-### **3. Microsoft**
+## **Microsoft**
 
 - Respect
 - Integrity
@@ -42,7 +40,7 @@ Apple doesn’t publish a formal list of core values like others, but its cultur
 
 ---
 
-### **4. Amazon**
+## **Amazon**
 
 Outlined in their **Leadership Principles**:
 
@@ -63,7 +61,7 @@ Outlined in their **Leadership Principles**:
 
 ---
 
-### **5. Meta (Facebook)**
+## **Meta (Facebook)**
 
 - Move fast
 - Be bold
@@ -75,7 +73,7 @@ Outlined in their **Leadership Principles**:
 
 ---
 
-### **6. Netflix**
+## **Netflix**
 
 Outlined in their **Culture Memo**:
 
@@ -92,7 +90,7 @@ Outlined in their **Culture Memo**:
 
 ---
 
-### **7. Salesforce**
+## **Salesforce**
 
 - Trust
 - Customer Success
@@ -102,7 +100,7 @@ Outlined in their **Culture Memo**:
 
 ---
 
-### **8. Spotify**
+## **Spotify**
 
 - Innovation
 - Collaboration
@@ -112,7 +110,7 @@ Outlined in their **Culture Memo**:
 
 ---
 
-### **9. Airbnb**
+## **Airbnb**
 
 - Champion the mission
 - Be a host
@@ -122,9 +120,19 @@ Outlined in their **Culture Memo**:
 
 ---
 
-### **10. Adobe**
+## **Adobe**
 
 - Genuine
 - Exceptional
 - Innovative
 - Involved
+
+## Dropbox
+
+- Be Worthy of Trust
+- They Win, We Win
+- Keep It Simple
+- Own It
+- Make Work Human
+
+Source: <https://jobs.dropbox.com/blogs/dropbox-values>

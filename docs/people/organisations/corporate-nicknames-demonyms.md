@@ -28,6 +28,7 @@
 - **Microsoft** - Softies.
 - **Nvidia** - Nvidians.
 - **SolarWinds** - Solarians.
+- **Dropboxers** - Dropboxers.
 
 ## Amazon Nicknames
 
