@@ -104,3 +104,7 @@ Leaders who successfully implement SPACE typically do the following:
 | Activity                      | Pull requests merged per sprint     | 5–10 per engineer, context-dependent |
 | Communication & Collaboration | PR review turnaround time           | <24 hours                            |
 | Efficiency & Flow             | Lead time for change                | <1 day (DORA elite)                  |
+
+## References
+
+- <https://getdx.com/blog/space-metrics/>

@@ -62,3 +62,7 @@ Each of these factors helps businesses understand the broader macro-environment 
 - Carbon footprint and energy consumption
 - Waste management and pollution control
 - Corporate social responsibility (CSR) initiatives
+
+## References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/PEST_analysis)

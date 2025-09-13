@@ -15,3 +15,9 @@ title: Books
 | ------------------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | The startup of you                    | Reid Hoffman & Ben Casnocha | Treat your career as if it were a startup. Create a brand, network with people, market yourself, adapt and grow                                                         | [Amazon](https://www.amazon.co.uk/The-Start-Up-of-You/dp/B00BCMJU24/)      |
 | What Got You Here Won't Get You There | Marshall Goldsmith          | Behaviors and habits that led to your current success may not be enough to achieve further advancement, and you need to adapt to new strategies to reach the next level | [Amazon](https://www.amazon.co.uk/What-Got-Here-Wont-There/dp/1846681375/) |
+
+## Change management
+
+| Title                | Authors         | Summary                                                                                                                    | Link                                                              |
+| -------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Who Moved My Cheese? | Spencer Johnson | A motivational business fable about adapting to change, overcoming fear, and embracing new opportunities in work and life. | [Wikipedia](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F) |
