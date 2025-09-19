@@ -4,10 +4,6 @@ title: Miscellaneous
 
 # Misc resources
 
-## Tech debt / Maintenance
-
-- [End of life dates](https://endoflife.date/)
-
-## People
-
-- [Every time zone](https://everytimezone.com/)
+- [End of life dates](https://endoflife.date/) #tech-debt #maintenance
+- [Every time zone](https://everytimezone.com/) #people
+- [Laws of Software](https://www.laws-of-software.com/) #wisdom

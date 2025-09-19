@@ -10,3 +10,7 @@ Career plans are structured strategies individuals create to achieve their profe
 4. **Networking** – Building professional relationships for mentorship, job opportunities, and industry insights.
 5. **Experience Building** – Gaining relevant experience through jobs, internships, or side projects.
 6. **Regular Evaluation** – Reviewing progress periodically and adjusting plans as needed.
+
+## Downloads
+
+- [Career plan template (Word template)](../../downloads/templates/career-plan.dotx)
