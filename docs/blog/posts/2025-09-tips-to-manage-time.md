@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-09-22
-draft: true
+draft: false
 categories:
   - Productivity
 tags:

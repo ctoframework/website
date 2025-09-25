@@ -10,6 +10,10 @@ title: Humour
 
 ## Technical debt
 
-![Tech debt window](/images/humour/technical-debt-window.png)
+![Tech debt window](../images/humour/technical-debt-window.png)
 
-![Tech debt dig](/images/humour/technical-debt-dig.png)
+![Tech debt dig](../images/humour/technical-debt-dig.png)
+
+## Code reviews
+
+![Code reviews](../images/humour/pull-request-loc-meme.png)
