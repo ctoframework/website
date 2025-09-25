@@ -49,6 +49,15 @@ plugins:
   - meta
   - tags
   - search
+  - blog
+  - rss:
+      enabled: !ENV [CI, false]  
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
   - social
   - awesome-nav
   - minify:
@@ -102,7 +111,6 @@ extra:
       make our documentation better.
 
 hooks:
-  - hooks/socialmedia.py
   - hooks/extlinks.py
 
 validation:

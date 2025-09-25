@@ -23,3 +23,7 @@ While the standard Pomodoro session is **25 minutes work + 5 minutes break**, yo
 
 - **50 minutes work + 10 minutes break** (for deep focus tasks)
 - **90 minutes work + 20–30 minutes break** (for extended creative work)
+
+## References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique)
