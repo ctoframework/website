@@ -43,3 +43,7 @@ Challenging experiences are the most educational and thus, ultimately, the most 
 > You miss 100% of the shots you don't take.<br>[Wayne Gretzky](https://en.wikipedia.org/wiki/Wayne_Gretzky)
 
 [^1]: [Wiktionary](https://en.wiktionary.org/wiki/a_smooth_sea_never_made_a_skilled_sailor)
+
+## Culture
+
+> Culture eats strategy for breakfast.<br>[Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)

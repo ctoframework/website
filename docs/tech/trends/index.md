@@ -8,3 +8,4 @@
 - [The Forrester Wave](https://www.forrester.com/policies/forrester-wave-methodology/)
 - [IEEE Spectrum](https://spectrum.ieee.org/top-programming-languages-2024)
 - [Cloud Native Landscape](https://landscape.cncf.io/)
+- [The State of Devs 2025](https://2025.stateofdevs.com/en-US)
