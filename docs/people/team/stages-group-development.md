@@ -49,4 +49,7 @@ The Stages of Group Development model, proposed by psychologist Bruce Tuckman in
 
 Each team moves through these stages at different speeds, and sometimes they may regress (e.g., returning to storming when new challenges arise). Strong leadership and team dynamics help navigate these stages effectively.
 
-[Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
+## References
+
+- [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
+- [Drexler/Sibbet Team Performance Model](https://coachpedropinto.com/drexler-sibbet-team-performance-model/)

@@ -27,3 +27,8 @@ A **technical post-mortem** is a structured analysis conducted after a system fa
 - **Stay Objective & Blameless** – Focus on process and system failures, not individuals.
 - **Use Clear, Concise Language** – Make it easy for technical and non-technical stakeholders to understand.
 - **Review & Iterate** – Regularly assess past post-mortems to refine processes.
+
+## References
+
+- [AWS Post-Event Summaries](https://aws.amazon.com/premiumsupport/technology/pes/)
+- [Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)

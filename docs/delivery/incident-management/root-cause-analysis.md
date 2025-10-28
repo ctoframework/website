@@ -53,3 +53,4 @@
 ## References
 
 - [Five whys on Wikipedia](https://en.wikipedia.org/wiki/Five_whys)
+- [Gitlab RCA template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/rca.md) (Markdown)
