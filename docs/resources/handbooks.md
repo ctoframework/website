@@ -6,6 +6,7 @@
 | AM Digital | [Playform Development Playbook](https://playbook.platformdev.amdigital.co.uk/) ([code](https://github.com/amdigital-co-uk/docs-playbook)) |
 | Automattic | [Automattic employee handbook](https://automattic.com/fieldguide/)                                                                        |
 | Atlassian  | [Atlassian Team Plabook](https://www.atlassian.com/team-playbook/plays)                                                                   |
+| Atlassian | [Atlassian Engineering’s handbook](https://www.atlassian.com/blog/atlassian-engineering/handbook) |
 | Basecamp   | [Basecamp Employee Handbook](https://basecamp.com/handbook) ([code](https://github.com/basecamp/handbook))                                |
 | Hashicorp  | [How Hashicorp Works](https://www.hashicorp.com/en/how-hashicorp-works)                                                                   |
 | Gitlab     | [Gitlab Handbook](https://handbook.gitlab.com/)                                                                                           |

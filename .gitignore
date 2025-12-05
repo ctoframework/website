@@ -1,3 +1,5 @@
 site
 .cache
 *.pyc
+.venv
+.cache

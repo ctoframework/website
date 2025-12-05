@@ -1,6 +1,6 @@
 
 run: install-deps
-	mkdocs serve
+	mkdocs serve --livereload
 
 install-deps:
 	pip install -r requirements.txt
