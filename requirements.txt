@@ -5,3 +5,4 @@ mkdocs-awesome-nav
 mkdocs-material[imaging]
 mkdocs-minify-plugin
 mkdocs-rss-plugin
+mkdocs-macros-plugin
