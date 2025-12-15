@@ -1,0 +1,295 @@
+companies:
+  - name: Acast Tech
+    url: https://medium.com/acast-tech
+    category: Podcasting / Media
+    notes: ""
+
+  - name: Airbnb Tech Blog
+    url: https://medium.com/airbnb-engineering
+    category: Travel / Hospitality
+    notes: ""
+
+  - name: All things Distributed
+    url: https://www.allthingsdistributed.com/
+    category: Cloud / Infrastructure
+    notes: Blog by Werner Vogels (AWS)
+
+  - name: ASOS Tech Blog
+    url: https://medium.com/asos-techblog
+    category: E-commerce / Fashion
+    notes: ""
+
+  - name: Auto Trader Engineering Blog
+    url: https://engineering.autotrader.co.uk/
+    category: Automotive / Marketplace
+    notes: ""
+
+  - name: AWS Architecture blog
+    url: https://aws.amazon.com/blogs/architecture/
+    category: Cloud / Infrastructure
+    notes: ""
+
+  - name: Booking.com Tech blog
+    url: https://blog.booking.com/
+    category: Travel / Hospitality
+    notes: ""
+
+  - name: Canva Engineering blog
+    url: https://www.canva.dev/blog/engineering/
+    category: Design / SaaS
+    notes: ""
+
+  - name: Capital One
+    url: https://www.capitalone.com/tech/blog/
+    category: Finance / Banking
+    notes: ""
+
+  - name: CloudFlare blog
+    url: https://blog.cloudflare.com/
+    category: Cloud / Infrastructure
+    notes: ""
+
+  - name: Databricks Engineering blog
+    url: https://www.databricks.com/blog/category/engineering
+    category: Data / AI / Cloud
+    notes: ""
+
+  - name: Discord Engineering and Design
+    url: https://discord.com/blog
+    category: Communication / Gaming
+    notes: ""
+
+  - name: Disney Streaming
+    url: https://medium.com/disney-streaming
+    category: Media / Streaming
+    notes: ""
+
+  - name: Dropbox Engineering blog
+    url: https://dropbox.tech/
+    category: Cloud / Storage
+    notes: ""
+
+  - name: Ebay Tech blog
+    url: https://tech.ebayinc.com/
+    category: E-commerce / Marketplace
+    notes: ""
+
+  - name: Engineering at Birdie
+    url: https://medium.com/engineering-at-birdie
+    category: Health Tech
+    notes: ""
+
+  - name: Engineering at Depop
+    url: https://engineering.depop.com/
+    category: Fashion / Marketplace
+    notes: ""
+
+  - name: Engineering at Meta
+    url: https://engineering.fb.com/
+    category: Social Media
+    notes: ""
+
+  - name: Engineering at Microsoft
+    url: https://devblogs.microsoft.com/engineering-at-microsoft/
+    category: Tech / Cloud / SaaS
+    notes: ""
+
+  - name: Engineering at Quora
+    url: https://quoraengineering.quora.com/
+    category: Knowledge Sharing / Q&A
+    notes: ""
+
+  - name: Engineering Leadership
+    url: https://newsletter.eng-leadership.com/
+    category: Leadership / Management
+    notes: ""
+
+  - name: Etsy Code as Craft engineering blog
+    url: https://www.etsy.com/codeascraft
+    category: E-commerce / Handmade
+    notes: ""
+
+  - name: Expedia Group tech blog
+    url: https://medium.com/expedia-group-tech
+    category: Travel / Tech
+    notes: ""
+
+  - name: Flickr Tech Blog
+    url: https://code.flickr.net/
+    category: Photography / Media
+    notes: ""
+
+  - name: Github Engineering
+    url: https://github.blog/engineering/
+    category: Dev Tools / Open Source
+    notes: ""
+
+  - name: Google Cloud blog
+    url: https://cloud.google.com/blog/
+    category: Cloud / Infrastructure
+    notes: ""
+
+  - name: Google Research blog
+    url: https://research.google/blog/
+    category: Research / Tech
+    notes: ""
+
+  - name: Gusto Engineering Blog
+    url: https://engineering.gusto.com/
+    category: HR / Payroll / SaaS
+    notes: ""
+
+  - name: Heroku Engineering Blog
+    url: https://blog.heroku.com/engineering
+    category: Cloud / PaaS
+    notes: ""
+
+  - name: High-growth engineer
+    url: https://read.highgrowthengineer.com/
+    category: Career / Growth
+    notes: ""
+
+  - name: Hotstar
+    url: https://blog.hotstar.com/
+    category: Media / Streaming
+    notes: ""
+
+  - name: Hubspot Engineering Blog
+    url: https://product.hubspot.com/blog/topic/engineering
+    category: Marketing / CRM
+    notes: ""
+
+  - name: Hybrid Hacker
+    url: https://hybridhacker.email/
+    category: Career / Engineering
+    notes: ""
+
+  - name: Indeed Engineering Blog
+    url: https://engineering.indeedblog.com/blog/
+    category: Hiring / Job Search
+    notes: ""
+
+  - name: Instagram Engineering
+    url: https://engineering.fb.com/tag/instagram/
+    category: Social Media
+    notes: ""
+
+  - name: LinkedIn Engineering Blog
+    url: https://www.linkedin.com/blog/engineering
+    category: Professional Networking
+    notes: ""
+
+  - name: Lyft Engineering blog
+    url: https://eng.lyft.com/
+    category: Transportation / Mobility
+    notes: ""
+
+  - name: Manager's Guide
+    url: https://the.managers.guide/
+    category: Management / Leadership
+    notes: ""
+
+  - name: Microsoft Tech Blogs
+    url: https://devblogs.microsoft.com/
+    category: Tech / Cloud / Tools
+    notes: ""
+
+  - name: Miro engineering blog
+    url: https://medium.com/miro-engineering
+    category: Collaboration / SaaS
+    notes: ""
+
+  - name: MongoDB Engineering Blog
+    url: https://www.mongodb.com/blog/channel/engineering-blog
+    category: Database / Infrastructure
+    notes: ""
+
+  - name: Netflix tech blog
+    url: https://netflixtechblog.com/
+    category: Media / Streaming
+    notes: ""
+
+  - name: Pinterest Engineering
+    url: https://medium.com/pinterest-engineering
+    category: Social Media
+    notes: ""
+
+  - name: Pragmatic Engineer
+    url: https://newsletter.pragmaticengineer.com/
+    category: Career / Engineering
+    notes: ""
+
+  - name: Refactoring
+    url: https://refactoring.fm/
+    category: Tech / Startups
+    notes: ""
+
+  - name: Shopify Engineering
+    url: https://shopify.engineering/
+    category: E-commerce / SaaS
+    notes: ""
+
+  - name: SkyScanner engineering blog
+    url: https://medium.com/@SkyscannerEng
+    category: Travel / Tech
+    notes: ""
+
+  - name: Slack Engineering
+    url: https://slack.engineering/
+    category: Communication / SaaS
+    notes: ""
+
+  - name: Snyk blog
+    url: https://snyk.io/blog/
+    category: Security / Dev Tools
+    notes: ""
+
+  - name: SourceDiving (Cookpad)
+    url: https://sourcediving.com/
+    category: Food / Recipes / Tech
+    notes: Cookpad's Engineering Blog
+
+  - name: Spotify Engineering
+    url: https://engineering.atspotify.com/
+    category: Media / Music
+    notes: ""
+
+  - name: Stripe Engineering Blog
+    url: https://stripe.com/blog/engineering
+    category: Payments / Fintech
+    notes: ""
+
+  - name: Swiggy
+    url: https://bytes.swiggy.com/
+    category: Food Delivery
+    notes: ""
+
+  - name: Twitter / X Engineering blog
+    url: https://blog.x.com/engineering/en_us
+    category: Social Media
+    notes: "⚠️ Last post from 31 March 2023"
+
+  - name: Uber Engineering Blog
+    url: https://www.uber.com/en-GB/blog/engineering/
+    category: Transportation / Mobility
+    notes: ""
+
+  - name: Yelp Engineering Blog
+    url: https://engineeringblog.yelp.com/
+    category: Reviews / Local Services
+    notes: ""
+
+  - name: Zomato
+    url: https://blog.zomato.com/category/technology
+    category: Food Delivery / Reviews
+    notes: ""
+
+  - name: Zynga Engineering
+    url: https://www.zynga.com/blogs/engineering
+    category: Gaming
+    notes: ""
+
+  - name: Technology in Government, GOV UK
+    url: https://technology.blog.gov.uk/
+    category: Government
+    notes: ""
