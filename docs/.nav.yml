@@ -18,6 +18,5 @@ nav:
   - Resources:
     - resources/blogs.md
     - "resources/*"
-  - Blog:
-    - blog/index.md
+  - Blog: https://ctoframework.substack.com/
 

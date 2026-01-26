@@ -1,11 +1,11 @@
 site_name: CTO Framework
 site_description: The most comprehensive site for technical leaders looking to expand their knowledge and skills.
 site_url: https://ctoframework.com
-repo_url: https://github.com/ctoframework/static-website
+repo_url: https://github.com/ctoframework/website
 edit_uri: edit/main/docs/
 
 copyright: >
-  Copyright &copy; 2025 •
+  Copyright &copy; 2026 •
   <a href="#__consent">Change cookie settings</a> •
   <a href="/contact">Contact us</a>
 
@@ -49,15 +49,6 @@ plugins:
   - meta
   - tags
   - search
-  - blog
-  - rss:
-      enabled: !ENV [CI, false]  
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags 
   - social
   - awesome-nav
   - minify:
