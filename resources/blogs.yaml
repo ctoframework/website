@@ -293,3 +293,18 @@ companies:
     url: https://technology.blog.gov.uk/
     category: Government
     notes: ""
+
+  - name: OpenAI Engineering
+    url: https://openai.com/news/engineering/
+    category: AI / Research
+    notes: ""
+
+  - name: Anthropic Engineering
+    url: https://www.anthropic.com/engineering
+    category: AI / Research
+    notes: ""
+
+  - name: Figma Tech Blog
+    url: https://www.figma.com/blog/engineering/
+    category: Design / SaaS
+    notes: ""
