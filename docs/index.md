@@ -12,6 +12,8 @@ Leading a software engineering team is tough. **We make it easier**.
 
 **Level up your leadership. Build better teams. Drive impact.**
 
+[Learn more about the author](/about.md)
+
 | Category     | Why It Matters                                                                                                      | Learn More                      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | **People**   | Building, managing, and scaling high-performing engineering teams is crucial for long-term success.                 | [Read more](/people/index.md)   |
