@@ -31,3 +31,6 @@ The **Systems Thinking Iceberg Model** is a framework used to analyze complex sy
 - Helps shift focus from reactive problem-solving to proactive system redesign.
 - Encourages addressing root causes rather than surface-level symptoms.
 - Supports long-term, sustainable change by altering structures and mental models.
+
+## **See Also**
+- [OODA Loop](ooda-loop.md)

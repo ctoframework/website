@@ -20,7 +20,7 @@ To drive momentum and maintain a competitive edge, organizations must balance an
 
 ### **1. Set Clear Decision Frameworks**
 
-Define key decision criteria upfront to streamline the evaluation process. For example, when choosing a technology stack, establish non-negotiables (e.g., scalability, security) and weigh trade-offs accordingly. Frameworks like **RAPID (Recommend, Agree, Perform, Input, Decide)** or **Eisenhower Matrix (Urgent vs. Important)** can help structure decision-making.
+Define key decision criteria upfront to streamline the evaluation process. For example, when choosing a technology stack, establish non-negotiables (e.g., scalability, security) and weigh trade-offs accordingly. Frameworks like **RAPID (Recommend, Agree, Perform, Input, Decide)**, the **Eisenhower Matrix (Urgent vs. Important)**, or the [**OODA Loop**](../systems-thinking/ooda-loop.md) can help structure decision-making.
 
 ### **2. Embrace Iteration and Reversible Decisions**
 
