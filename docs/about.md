@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# About Santiago Lizardo
+# About the author
 
 ![Santiago Lizardo](images/santiago-lizardo-cto.png){ align=left width="200" style="margin-right: 20px; border-radius: 8px;" }
 

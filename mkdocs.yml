@@ -63,6 +63,7 @@ plugins:
   - macros
 
 markdown_extensions:
+  - md_in_html
   - def_list
   - attr_list
   - footnotes
